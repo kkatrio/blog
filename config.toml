@@ -1,0 +1,31 @@
+baseURL = "https://kkatrio.github.io/"
+languageCode = "en-us"
+title = "Konstantinos Katrioplas"
+theme = "nix"
+pluralizeListTitles = false
+
+[menu]
+  [[menu.header]]
+    name = "things_I_am_passionate_about"
+    weight = 1
+    url = "/things_I_am_passionate_about"
+  [[menu.header]]
+    name = "projects"
+    weight = 1
+    url = "/projects"
+  [[menu.header]]
+    name = "readme"
+    weight = 0
+    url = "/readme"
+
+
+[params]
+  GithubID = "kkatrio"
+  TwitterID = "bitonic5000"
+  LinkedInID = "konstantinoskatrioplas"
+  Name = "Konstantinos Katrioplas"
+  HeaderUsername = "konstantinos"
+  HeaderHostname = "theWeb"
+  Email = "konst.katrioplas@gmail.com"
+  About = "Hello"
+  ProfilePicture = "penguin.jpg"
