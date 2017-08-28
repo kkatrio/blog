@@ -80,7 +80,7 @@ that minimize the difference of the areas of all triangles around each vertex to
  `x_(n+1) = x_n - eta dr/dx`
 
 An amazing problem that appeared was that energy was being stuck in local minima.
-To confront this, I added learning rate annealing based on an approach [proposed by L. Bottou].  (http://leon.bottou.org/publications/pdf/tricks-2012.pdf)
+To confront this, I added learning rate annealing based on an approach [proposed by L. Bottou](http://leon.bottou.org/publications/pdf/tricks-2012.pdf).
 
 `eta = eta0 / (1 + t0*t)`
 
