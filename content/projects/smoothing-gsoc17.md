@@ -20,7 +20,7 @@ Code
 ----
 All commits can be found in [this branch in the CGAL repository](https://github.com/CGAL/cgal-public-dev/commits/gsoc2017-smoothing-kkatrio).
 
-A summary of the project and a list of all commits can be found in [this github issue]().
+A summary of the project and a list of all commits can be found in [this github issue](https://github.com/CGAL/cgal/issues/2377).
 
 
 Highlights
