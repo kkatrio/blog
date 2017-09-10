@@ -106,8 +106,7 @@ The CGAL Polyhedron demo is a brilliant GUI that enables quick testing and visua
  Most importantly, since it's a Qt based application it's easy to enhance and improve it.
  It is currently under heavy development. And this is my contribution to it:
 
-![gui](/img/gui.png)
-
+<img style="margin-left: -150px;" src="/img/gui.png">
 
 ### Evaluate the result
 
