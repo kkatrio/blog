@@ -128,6 +128,14 @@ its minimum edge.
 
 In terms of shape smoothing, it is more difficult to quantify the result. Sharp edges and corners should be smoothed with the overall volume being kept almost equal. As a test flat surfaces do not change at all after applying the operator, since the curvature is zero everywhere. Even more so, a sphere with differently sampled half should remain unchanged, since the curvature is the same everywhere.
 
+Here is shape smoothing with the mean curvature flow applied to the devil gradually:
+
+![deg_face](/img/man1.png)
+![deg_face](/img/man2.png)
+![deg_face](/img/man4.png)
+
+
+
 
 Todo
 ----
