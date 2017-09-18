@@ -28,5 +28,5 @@ pluralizeListTitles = false
   HeaderHostname = "theWeb"
   Email = "konst.katrioplas@gmail.com"
   About = "Hello"
-  ProfilePicture = "penguin.jpg"
+  ProfilePicture = "/img/penguin.jpg"
   GoogleAnalytics = "UA-105597427-1"

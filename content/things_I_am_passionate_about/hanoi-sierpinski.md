@@ -5,7 +5,6 @@ date:  2017-09-10 17:13:11 +0300
 
 https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
-![goltorus](/img/hanoi.gif)
+<img src="/img/hanoi.gif" alt="Hanoi" style="width: 400px;"/>
 
-
-![goltorus](/img/sierpinski.svg)
+<img src="/img/sierpinski.svg" alt="Sierpinski" style="width: 400px;"/>
