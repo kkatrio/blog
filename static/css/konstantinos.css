@@ -38,6 +38,13 @@ nav {
 	font-size: 1em;
 }
 
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    width: 750px;
+}
+
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
@@ -65,7 +72,7 @@ h1,h2,h3,h4,h5,h6 {
 	border-style: solid;
 	border-width: 1px;
 	border-color: #292929;
-	margin-top: 150px;
+	margin-top: 20px;
 }
 
 i {
@@ -79,6 +86,7 @@ i {
 
 .post-date {
 	float: right;
+	color: dimgrey;
 }
 
 .post-header {
@@ -105,10 +113,10 @@ i {
 }
 
 .post-list-item {
-	margin-top: 20px;
-	border-style: solid;
+	margin-top: 30px;
+	/*border-style: solid;
 	border-width: 0 0 3px 0;
-	border-color: #292929;
+	border-color: #292929;*/
 }
 
 .post-comments {
@@ -153,3 +161,5 @@ div p {
 td {
 	margin: 0 20px 0 20px;
 }
+
+
