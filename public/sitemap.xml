@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://test.xyz/post/fibonacci/</loc>
+    <lastmod>2017-11-24T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/compiler-explorer/</loc>
+    <lastmod>2017-11-10T17:23:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/sorting-algorithms/</loc>
+    <lastmod>2017-10-29T17:23:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/mit-decentralization/</loc>
+    <lastmod>2017-10-05T17:23:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/open-ai/</loc>
+    <lastmod>2017-10-01T17:23:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/callular-water/</loc>
+    <lastmod>2017-09-18T17:23:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/self-driving/</loc>
+    <lastmod>2017-09-18T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/hanoi-sierpinski/</loc>
+    <lastmod>2017-09-10T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/game-of-life-torus/</loc>
+    <lastmod>2017-08-29T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/smoothing-gsoc17/</loc>
+    <lastmod>2017-08-27T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/2017-08-08-prime-numbers/</loc>
+    <lastmod>2017-08-08T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/master-thesis/</loc>
+    <lastmod>2017-02-27T17:13:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/</loc>
+    <lastmod>2017-11-24T17:13:11+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/post/</loc>
+    <lastmod>2017-11-24T17:13:11+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
