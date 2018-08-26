@@ -3,14 +3,13 @@ languageCode = "en-us"
 title = "Konstantinos Katrioplas"
 theme = "nix"
 pluralizeListTitles = false
-paginate = 20
+paginate = 5
 
 [menu]
   [[menu.header]]
     name = "readme"
     weight = 1
     url = "/readme"
-
 
 [params]
   GithubID = "kkatrio"
@@ -19,7 +18,7 @@ paginate = 20
   Name = "Konstantinos Katrioplas"
   HeaderUsername = ""
   HeaderHostname = ""
-  Email = "konst.katrioplas@gmail.com"
+  Email = "kokatrio@gmail.com"
   About = "Hello"
   ProfilePicture = "/img/art.jpg"
   GoogleAnalytics = "UA-105597427-1"
