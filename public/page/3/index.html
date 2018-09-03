@@ -91,12 +91,199 @@ ga('create', 'UA-105597427-1', 'auto');
         <li>
           <div class="post-list-item">
             <div class="post-header">
-              <h4 class="post-link"><a href="https://dikatrio.xyz/post/fibonacci/">Fibonacci sequence</a></h4>
-              <h4 class="post-date">Nov 24, 2017</h4>
+              <h4 class="post-link"><a href="https://dikatrio.xyz/post/2017-08-08-prime-numbers/">Prime numbers</a></h4>
+              <h4 class="post-date">Aug 8, 2017</h4>
             </div>
-            <div class="post-content"><p><p>Maths = inspiration</p>
+            <div class="post-content"><p><p>This is my sieve of Eratosthenes in CSS. <a
+href=https://stackoverflow.com/questions/2582732/time-complexity-of-sieve-of-eratosthenes-algorithm#2582776>How fast is
+it?</a></p>
 
-<p><img src="/img/fibonacci.gif" alt="fibonacci" /></p>
+
+<style>
+
+.numbers li{
+	display: inline-block;
+	counter-increment: numbers;
+	color: grey;
+	text-align:center;
+	padding: 0.5vw;
+    width: 30px;
+	height: 30px;
+	line-height: 30px;
+	color: red;
+}
+
+.numbers li::before{
+	content: counter(numbers);
+}
+
+.numbers li:first-child,
+.numbers li:nth-child(2n+4),
+.numbers li:nth-child(3n+6),
+.numbers li:nth-child(5n+10),
+.numbers li:nth-child(7n+14)
+{
+	color: #aaa;
+	border-color: transparent;
+}
+
+</style>
+
+<ul class="numbers">
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+ </ul>
+
+
+<br>
+
+
+<pre><code>
+
+&lt;style&gt;
+
+.numbers li{
+	display: inline-block;
+	counter-increment: numbers;
+	color: grey;
+	text-align:center;
+	padding: 0.5vw;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	border: 1px solid red;
+	border-radius: 50%;
+	color: red;
+}
+
+.numbers li::before{
+	content: counter(numbers);
+}
+
+.numbers li:first-child,
+.numbers li:nth-child(2n+2),
+.numbers li:nth-child(3n+6),
+.numbers li:nth-child(5n+10),
+.numbers li:nth-child(7n+14)
+{
+	color: #aaa;
+	border-color: transparent;
+}
+
+&lt;/style&gt;
+
+
+&lt;ul class="numbers"&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+   ...
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</code></pre>
 </p></div>
           </div>
         </li>
@@ -104,12 +291,10 @@ ga('create', 'UA-105597427-1', 'auto');
         <li>
           <div class="post-list-item">
             <div class="post-header">
-              <h4 class="post-link"><a href="https://dikatrio.xyz/post/compiler-explorer/">Compiler explorer</a></h4>
-              <h4 class="post-date">Nov 10, 2017</h4>
+              <h4 class="post-link"><a href="https://dikatrio.xyz/post/master-thesis/">Finite element image reconstruction during microwave ablation</a></h4>
+              <h4 class="post-date">Feb 27, 2017</h4>
             </div>
-            <div class="post-content"><p><p>This is a great tool. (<a href="https://godbolt.org/">https://godbolt.org/</a>).</p>
-
-<p><img src="/img/godbolt.png" alt="godbolt" style="width: 730px;"/></p>
+            <div class="post-content"><p><p>Here is the full text of my <a href="https://kkatrio.github.io/thesis_Katrioplas.pdf">master&rsquo;s degree thesis</a>.</p>
 </p></div>
           </div>
         </li>
@@ -117,44 +302,12 @@ ga('create', 'UA-105597427-1', 'auto');
         <li>
           <div class="post-list-item">
             <div class="post-header">
-              <h4 class="post-link"><a href="https://dikatrio.xyz/post/sorting-algorithms/">Sorting algorithms</a></h4>
-              <h4 class="post-date">Oct 29, 2017</h4>
+              <h4 class="post-link"><a href="https://dikatrio.xyz/post/cmakebook/">CMAKE book</a></h4>
+              <h4 class="post-date">Jan 1, 0001</h4>
             </div>
-            <div class="post-content"><p><p>Nice visualization of sorting algorithms:</p>
+            <div class="post-content"><p><p>Excellent</p>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/jHPexHsDxwQ">
-</iframe>
-</p></div>
-          </div>
-        </li>
-      
-        <li>
-          <div class="post-list-item">
-            <div class="post-header">
-              <h4 class="post-link"><a href="https://dikatrio.xyz/post/mit-decentralization/">MIT on decentralization</a></h4>
-              <h4 class="post-date">Oct 5, 2017</h4>
-            </div>
-            <div class="post-content"><p><p>MIT paper on defending internet freedom through decentralization:</p>
-
-<p><a href="http://dci.mit.edu/assets/papers/decentralized_web.pdf">http://dci.mit.edu/assets/papers/decentralized_web.pdf</a></p>
-</p></div>
-          </div>
-        </li>
-      
-        <li>
-          <div class="post-list-item">
-            <div class="post-header">
-              <h4 class="post-link"><a href="https://dikatrio.xyz/post/open-ai/">OpenAI</a></h4>
-              <h4 class="post-date">Oct 1, 2017</h4>
-            </div>
-            <div class="post-content"><p><p><a href="https://blog.openai.com/evolution-strategies/">OpenAI&rsquo;s article</a> on evolution strategies algorithm as a scalable alternative to reinforcement learning. For unsupervised learning, the gradients can be computed with finite differences instead of backpropagation.</p>
-
-<p><img src="/img/ES-RL.gif" alt="openAI" /></p>
-
-<p>Apparently, using this algorithm in tensorflow which works with <a href="https://en.wikipedia.org/wiki/Denormal_number">denormal numbers</a> off, <a href="https://blog.openai.com/nonlinear-computation-in-linear-networks/">nonlinearity</a> arises from deep linear networks.</p>
-
-<p><img src="/img/non-linear-nn.png" alt="non-linear-nn" style="width: 400px;"/></p>
+<p><img src="https://cliutils.gitlab.io/modern-cmake/" alt="cliutils.gitlab.io/modern-cmake" /></p>
 </p></div>
           </div>
         </li>
@@ -170,22 +323,22 @@ src="https://www.youtube.com/embed/jHPexHsDxwQ">
       </li>
       
       <li
-      class="disabled">
-          <a href="" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+      >
+          <a href="/page/2/" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
       </li>
       
       <li
-      class="active"><a href="/">1</a></li>
+      ><a href="/">1</a></li>
       
       <li
       ><a href="/page/2/">2</a></li>
       
       <li
-      ><a href="/page/3/">3</a></li>
+      class="active"><a href="/page/3/">3</a></li>
       
       <li
-      >
-          <a href="/page/2/" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+      class="disabled">
+          <a href="" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
       </li>
       
       <li>

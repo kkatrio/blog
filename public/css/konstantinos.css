@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Muli');
 
 * {
 	margin: 0;
@@ -11,7 +11,7 @@ html {
 body {
 	background-color: #fdfdfd;
 	height: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Muli', sans-serif;
 	font-style: normal;
   font-variant-ligatures: normal;
   font-variant-caps: normal;
@@ -27,11 +27,11 @@ body {
 }
 
 .font-header {
-	font-family: 'Inconsolata', monospace;
+	font-family: 'Muli', monospace;
 }
 
 .font-paragraph {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Muli', sans-serif;
 }
 
 nav {
@@ -46,7 +46,7 @@ nav {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
 	font-weight: bold;
 }
 

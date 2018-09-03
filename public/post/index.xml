@@ -2,127 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Konstantinos Katrioplas</title>
-    <link>https://test.xyz/post/</link>
+    <link>https://dikatrio.xyz/post/</link>
     <description>Recent content in Post on Konstantinos Katrioplas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2017 17:13:11 +0300</lastBuildDate>
     
-	<atom:link href="https://test.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dikatrio.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fibonacci sequence</title>
-      <link>https://test.xyz/post/fibonacci/</link>
+      <link>https://dikatrio.xyz/post/fibonacci/</link>
       <pubDate>Fri, 24 Nov 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/fibonacci/</guid>
+      <guid>https://dikatrio.xyz/post/fibonacci/</guid>
       <description>Maths = inspiration</description>
     </item>
     
     <item>
       <title>Compiler explorer</title>
-      <link>https://test.xyz/post/compiler-explorer/</link>
+      <link>https://dikatrio.xyz/post/compiler-explorer/</link>
       <pubDate>Fri, 10 Nov 2017 17:23:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/compiler-explorer/</guid>
-      <description>This is a great tool. (https://godbolt.org/). Time has come to learn some assembly.</description>
+      <guid>https://dikatrio.xyz/post/compiler-explorer/</guid>
+      <description>This is a great tool. (https://godbolt.org/).</description>
     </item>
     
     <item>
       <title>Sorting algorithms</title>
-      <link>https://test.xyz/post/sorting-algorithms/</link>
+      <link>https://dikatrio.xyz/post/sorting-algorithms/</link>
       <pubDate>Sun, 29 Oct 2017 17:23:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/sorting-algorithms/</guid>
+      <guid>https://dikatrio.xyz/post/sorting-algorithms/</guid>
       <description>Nice visualization of sorting algorithms:
  </description>
     </item>
     
     <item>
       <title>MIT on decentralization</title>
-      <link>https://test.xyz/post/mit-decentralization/</link>
+      <link>https://dikatrio.xyz/post/mit-decentralization/</link>
       <pubDate>Thu, 05 Oct 2017 17:23:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/mit-decentralization/</guid>
+      <guid>https://dikatrio.xyz/post/mit-decentralization/</guid>
       <description>MIT paper on defending internet freedom through decentralization:
 http://dci.mit.edu/assets/papers/decentralized_web.pdf</description>
     </item>
     
     <item>
       <title>OpenAI</title>
-      <link>https://test.xyz/post/open-ai/</link>
+      <link>https://dikatrio.xyz/post/open-ai/</link>
       <pubDate>Sun, 01 Oct 2017 17:23:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/open-ai/</guid>
+      <guid>https://dikatrio.xyz/post/open-ai/</guid>
       <description>OpenAI&amp;rsquo;s article on evolution strategies algorithm as a scalable alternative to reinforcement learning. For unsupervised learning, the gradients can be computed with finite differences instead of backpropagation.
 Apparently, using this algorithm in tensorflow which works with denormal numbers off, nonlinearity arises from deep linear networks.</description>
     </item>
     
     <item>
       <title>Cellular automata</title>
-      <link>https://test.xyz/post/callular-water/</link>
+      <link>https://dikatrio.xyz/post/callular-water/</link>
       <pubDate>Mon, 18 Sep 2017 17:23:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/callular-water/</guid>
+      <guid>https://dikatrio.xyz/post/callular-water/</guid>
       <description>1-dimensional water simulation using cellular automata https://www.reddit.com/r/cellular_automata/comments/6jhdfw/i_used_1dimensional_cellular_automata_to_make_a/
  </description>
     </item>
     
     <item>
       <title>Self-driving cars</title>
-      <link>https://test.xyz/post/self-driving/</link>
+      <link>https://dikatrio.xyz/post/self-driving/</link>
       <pubDate>Mon, 18 Sep 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/self-driving/</guid>
+      <guid>https://dikatrio.xyz/post/self-driving/</guid>
       <description>Machine learning for self-driving Euro Truck Simulator 2 https://github.com/marshq/europilot. I played ETS2 about 10 years ago and dammit, this drives better.</description>
     </item>
     
     <item>
       <title>Towers of Hanoi and their visualization as the Sierpiński triangle</title>
-      <link>https://test.xyz/post/hanoi-sierpinski/</link>
+      <link>https://dikatrio.xyz/post/hanoi-sierpinski/</link>
       <pubDate>Sun, 10 Sep 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/hanoi-sierpinski/</guid>
+      <guid>https://dikatrio.xyz/post/hanoi-sierpinski/</guid>
       <description>https://en.wikipedia.org/wiki/Tower_of_Hanoi</description>
     </item>
     
     <item>
       <title>Game of life on a torus</title>
-      <link>https://test.xyz/post/game-of-life-torus/</link>
+      <link>https://dikatrio.xyz/post/game-of-life-torus/</link>
       <pubDate>Tue, 29 Aug 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/game-of-life-torus/</guid>
+      <guid>https://dikatrio.xyz/post/game-of-life-torus/</guid>
       <description>The game of life on a torus https://github.com/Bauxitedev/goltorus</description>
     </item>
     
     <item>
       <title>Smoothing for the CGAL during Google summer of Code 2017</title>
-      <link>https://test.xyz/post/smoothing-gsoc17/</link>
+      <link>https://dikatrio.xyz/post/smoothing-gsoc17/</link>
       <pubDate>Sun, 27 Aug 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/smoothing-gsoc17/</guid>
+      <guid>https://dikatrio.xyz/post/smoothing-gsoc17/</guid>
       <description>This is a final report on my work for the CGAL project during the 2017 Google summer of code.
 My main task was to enhance the Polygon mesh processing package with two algorithms for optimization of a triangulated 3D surface mesh. The first algorithm aims at improving the mesh quality by using geometric criteria such as angles adjacent to mesh vertices and element areas, as proposed in this paper by Surazhsky and Gotsman.</description>
     </item>
     
     <item>
       <title>Prime numbers</title>
-      <link>https://test.xyz/post/2017-08-08-prime-numbers/</link>
+      <link>https://dikatrio.xyz/post/2017-08-08-prime-numbers/</link>
       <pubDate>Tue, 08 Aug 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/2017-08-08-prime-numbers/</guid>
-      <description>This is my sieve of Eratosthenes. How fast is it? Hmmm
+      <guid>https://dikatrio.xyz/post/2017-08-08-prime-numbers/</guid>
+      <description>This is my sieve of Eratosthenes in CSS. How fast is it?
  .numbers li{ display: inline-block; counter-increment: numbers; color: grey; text-align:center; padding: 0.5vw; width: 30px; height: 30px; line-height: 30px; color: red; } .numbers li::before{ content: counter(numbers); } .numbers li:first-child, .numbers li:nth-child(2n+4), .numbers li:nth-child(3n+6), .numbers li:nth-child(5n+10), .numbers li:nth-child(7n+14) { color: #aaa; border-color: transparent; }                                                                                                         &amp;lt;style&amp;gt; .</description>
     </item>
     
     <item>
       <title>Finite element image reconstruction during microwave ablation</title>
-      <link>https://test.xyz/post/master-thesis/</link>
+      <link>https://dikatrio.xyz/post/master-thesis/</link>
       <pubDate>Mon, 27 Feb 2017 17:13:11 +0300</pubDate>
       
-      <guid>https://test.xyz/post/master-thesis/</guid>
+      <guid>https://dikatrio.xyz/post/master-thesis/</guid>
       <description>Here is the full text of my master&amp;rsquo;s degree thesis.</description>
+    </item>
+    
+    <item>
+      <title>CMAKE book</title>
+      <link>https://dikatrio.xyz/post/cmakebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dikatrio.xyz/post/cmakebook/</guid>
+      <description>Excellent</description>
     </item>
     
   </channel>
