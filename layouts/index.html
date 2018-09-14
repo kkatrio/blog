@@ -21,7 +21,7 @@
 
 				</div>
 			</div>
-
+<!--
       <ul id="post-list">
       {{ range where .Paginator.Pages "Type" "post"}}
         <li>
@@ -36,7 +36,12 @@
       {{ end }}
       </ul>
       {{ partial "pagination" . }}
-
+-->
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 user-description text-center">
+          <p>{{ .Site.Params.About }}</p>
+        </div>
+       </div>
 
 
 			<div class="push"></div>
