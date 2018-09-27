@@ -24,5 +24,5 @@ paginate = 5
   HeaderHostname = ""
   Email = "kokatrio@gmail.com"
   About = "Konstantinos Katrioplas is a passionate programmer and a physicist. He loves maths, algorithms, numbers and computers. He likes contributing to open source projects like cgal and scikit-learn. When he is not writing code he likes reading books, helping with the house garden or learning about networks and the internet."
-  ProfilePicture = "/img/phenomena.jpg"
+  ProfilePicture = "/img/art.jpg"
   GoogleAnalytics = "UA-105597427-1"
