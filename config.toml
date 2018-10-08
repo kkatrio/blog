@@ -1,28 +1,27 @@
-baseURL = "https://dikatrio.xyz/"
+baseURL = "https://dikatrio.xyz"
 languageCode = "en-us"
-title = "Kostas Katrioplas"
-theme = "nix"
+title = "Kostis Katrioplas"
+theme = "square"
+
 pluralizeListTitles = false
 paginate = 5
 
 [menu]
- [[menu.header]]
+  [[menu.main]]
+  name = "home"
+  weight = 1
+  url = "/"
+ [[menu.main]]
    name = "posts"
    weight = 1
    url = "/posts"
- [[menu.header]]
+ [[menu.main]]
    name = "readme"
    weight = 2
    url = "/readme"
-   
 
 [params]
-  GithubID = "kkatrio"
-  TwitterID = "bitonic5000"
-  Name = "Kostas Katrioplas"
-  HeaderUsername = ""
-  HeaderHostname = ""
-  Email = "kokatrio@gmail.com"
-  About = "Kostas Katrioplas is a passionate programmer and a physicist. He loves maths, algorithms, numbers and computers. He likes contributing to open source projects like cgal and scikit-learn. When he is not writing code he likes reading books, helping with the house garden or learning about networks and the internet."
-  ProfilePicture = "/img/art.jpg"
-  GoogleAnalytics = "UA-105597427-1"
+ GithubID = "kkatrio"
+ TwitterID = "bitonic5000"
+ Email = "kokatrio@gmail.com"
+ Name = "Kostis Katrioplas"
