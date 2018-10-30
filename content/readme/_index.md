@@ -3,8 +3,10 @@
 <img width="250px;" style="margin-left:15px;" src="/img/me2.jpg">
 
 Hello  
-my name is Kostis Katrioplas, I am a physicist and a computer scientist, and in this place I share things that intrigue me.  
+my name is Kostis Katrioplas, I am a physicist and a computer scientist, and in this place I share things that I learn and intrigue me.  
 Do we maybe have common interests?
+
+[CV](/docs/kkatriocv.pdf)
 
 <div>
   <a href="mailto:kokatrio@gmail.com">kokatrio@gmail.com</a>
