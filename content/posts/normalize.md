@@ -28,4 +28,4 @@ struct Vector
 };
 ```
 
-An hour of my life to debug it that I'm never getting back.
+An hour of my life to debug it that I'm never getting back. I should have guessed earlier because results were skewed only by the y-axis.
