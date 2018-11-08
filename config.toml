@@ -16,8 +16,12 @@ paginate = 5
    weight = 1
    url = "/posts"
  [[menu.main]]
-   name = "readme"
+   name = "links"
    weight = 2
+   url = "/links"
+ [[menu.main]]
+   name = "readme"
+   weight = 3
    url = "/readme"
 
 [params]
