@@ -43,3 +43,5 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 [The name of the rose](https://en.wikipedia.org/wiki/The_Name_of_the_Rose)
 
 [Letter to a child never born](https://www.goodreads.com/book/show/79429.Letter_to_a_Child_Never_Born)
+
+[Python crash course](https://nostarch.com/pythoncrashcourse/)
