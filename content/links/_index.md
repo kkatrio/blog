@@ -1,4 +1,6 @@
 
+<img width="250px; "class="homepage-content" style="margin-left:50px;" src="/img/phenomena.jpg">
+
 This is an unordered list. If you have a good recommendation, please [tell me about it!](mailto:kokatrio@gmail.com)
 
 ### Books
