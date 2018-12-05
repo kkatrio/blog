@@ -3,7 +3,7 @@ title: "Memory leak"
 date: 2018-12-05T15:47:36+02:00
 ---
 
-So I tried to simulate the notorius memory leak with free pointers in C++. This is my code
+So I tried to simulate the notorious memory leak with free pointers in C++. This is my code
 
 ```
 
