@@ -3,8 +3,7 @@
 <img width="250px;" style="margin-left:15px;" src="/img/me2.jpg">
 
 Hello  
-my name is Kostis Katrioplas, I am a software engineer and a physicist, and in this place I share things that I learn and intrigue me.  
-Do we maybe have common interests?
+my name is Kostis Katrioplas, I am a software engineer and a physicist.
 
 [CV](/docs/kkatriocv.pdf)
 
