@@ -1,5 +1,5 @@
 ---
-title: "Install arch"
+title: "Install arch linux"
 date: 2018-09-26
 draft: false
 ---
@@ -10,74 +10,77 @@ pacman -Sy terminus-font
 pacman -Ql terminux-font  
 setfont ter-v22n
 
-check time  
-timedatectl set-ntp true && timedatectl status
+### check time  
+**timedatectl set-ntp true && timedatectl status**
 
-fdisk /dev/sda, n, p/e, +18G  
+**fdisk /dev/sda, n, p/e, +18G**  
 fdisk list options with m  
 after creating partitions,  
 a -> bootable first partition  
 t -> type 82 swap partition  
 w to write
 
-format the partitions  
-mkfs.ext4 /dev/sda1
+### format the partitions  
+**mkfs.ext4 /dev/sda1**
 
-mkswap /dev/sda2  
-swapon /dev/sda2
+**mkswap /dev/sda2**  
+**swapon /dev/sda2**
 
-mount the file systems  
-mount /dev/sda1 /mnt
+### mount the file systems  
+**mount /dev/sda1 /mnt**
 
 genfstab will later detect mounted file systems and swap space.  
 
-update mirrorlist  
-vim /etc/pacman.d/mirrorlist
+### update mirrorlist  
+**vim /etc/pacman.d/mirrorlist**
 
-install  
-pacstrap /mnt base base-devel
+### install  
+**pacstrap /mnt base base-devel**
 
-generate fstab  
-genfstab -U /mnt >> /mnt/etc/fstab  
+### generate fstab  
+**genfstab -U /mnt >> /mnt/etc/fstab**  
 blkid to list UUIDs
 
-Change root into the new system  
-arch-chroot /mnt
+### Change root into the new system  
+**arch-chroot /mnt**
 
-timezone  
-ln -sf /usr/share/zoneinfo/Europe/Athens /etc/localtime
+### set timezone  
+**ln -sf /usr/share/zoneinfo/Europe/Athens /etc/localtime**
 
-set hardware clock  
-hwclock --systohc
+### set hardware clock  
+**hwclock --systohc**
 
 Uncomment en_US.UTF-8 UTF-8 and other needed locales in /etc/locale.gen, and generate them with:  
-locale-gen
+**locale-gen**
 
 set LANG variable  
-echo "LANG=en_US.UTF-8" >> /etc/locale.conf
+**echo "LANG=en_US.UTF-8" >> /etc/locale.conf**
 
-echo "theComputer" >> /etc/hostname
+**echo "theComputer" >> /etc/hostname**
 
-/etc/hosts  
+in /etc/hosts  
+```
 127.0.0.1	localhost  
 ::1		localhost  
 127.0.1.1	theComputer.localdomain	theComputer  
-
+```
+### isntall grub
+```
 pacman -S grub  
 grub-install /dev/sda  
 grub-mkconfig -o /boot/grub/grub.cfg
+```
 
-root password  
-passwd
+### set root password  
+**passwd**
 
-to reboot  
-exit (root enviroment)  
-reboot
+### reboot  
+**exit** (root enviroment)  
+**reboot**
 
 login as root
 
-----------------------------
-
+### create user
 useradd --create-home kon  
 passwd kon
 
@@ -85,9 +88,8 @@ install sudo (gnome has it)
 visudo  
 add USER_NAME ALL=(ALL) ALL
 
-----------------------------
 
-setup network  
+### setup network  
 ip link  
 systemctl dhcpcd.service start  to bring up the wired interface or bring it up manually if it's enough to connect
 
@@ -108,21 +110,23 @@ todo:
 wireless with iwd
 
 
-with NetworkManager (for gnome)  
+#### with NetworkManager (for gnome)  
+```
 pacman -S networkmanager  
 systemctl start NetworkManager.service  
 systemctl enable NetworkManager.service creates the symlinks so as to be enabled on reboot
+```
 
 todo:  
 resolve DNS
 
-----------------------------
-desktop
+### install desktop
 
-gnome  
+#### gnome  
+```
 pacman -S xorg xorg-server  
 pacman -S gnome gnome-extra
-
+```
 systemctl start gdm.service  
 systemctl enable gdm.service
 
