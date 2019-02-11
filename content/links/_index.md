@@ -116,6 +116,8 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [regexr.com](https://regexr.com/)
 
+[rubik's cube](https://web.mit.edu/sp.268/www/rubik.pdf)
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
