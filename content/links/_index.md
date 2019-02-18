@@ -66,6 +66,8 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 
 [The art of doing science and engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
+[Reinforcement learning](http://incompleteideas.net/book/RLbook2018.pdf)
+
 ### Articles
 
 [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
@@ -117,6 +119,8 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [regexr.com](https://regexr.com/)
 
 [rubik's cube](https://web.mit.edu/sp.268/www/rubik.pdf)
+
+[HN personal websites](https://news.ycombinator.com/item?id=19188760)
 
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
