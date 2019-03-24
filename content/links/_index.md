@@ -86,6 +86,8 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [Was the Antikythera Mechanism the world’s first computer?](https://www.newyorker.com/magazine/2007/05/14/fragmentary-knowledge)
 
+[Images guid for web](https://images.guide/)
+
 ### Links
 
 [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
