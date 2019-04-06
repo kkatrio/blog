@@ -64,11 +64,7 @@ restart apache
 ##### or let's encrypt
 
 ## DDNS
-with cloudflare!  
-
-update cloudflare DNS if the ip has changed. A bash script (originally found it [here](https://gist.github.com/TheFirsh/c9f72970eaae3aec04beb1106cc304bc)) executes every 6 hours with a cron job. Needs improvement but works for now. No ddclient.
-
-I think it's ok if the ip has changed within the last 6 hours, but must check that on cloudflare.
+use a REST API to dynamically update the DNS.
 
 ### add domain in trusted domains
-in *config/config.php*
+in */var/www/html/nextcloud/config/config.php*
