@@ -21,8 +21,21 @@ static domain_name_servers=1.1.1.1 1.0.0.1
 ### install prerequisites
 apache2  
 php7.0 php7.0-gd  
-sqlite php7.0-sqlite  
+sqlite php7.0-sqlite - nope!   
 php7.0-curl php7.0-zip php7.0-xml php7.0-mbstring  
+
+*instead of sqlite, go for mariadb-server*
+install these instead:
+mariadb-server, php7.0-mysql
+
+mysql_secure_installation to setup root access
+and [create a user and a database](https://docs.nextcloud.com/server/15/admin_manual/configuration_database/linux_database_configuration.html#configuring-a-mysql-or-mariadb-database):
+```
+CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+CREATE DATABASE IF NOT EXISTS nextcloud;
+GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, CREATE TEMPORARY TABLES ON nextcloud.* TO 'username'@'localhost' IDENTIFIED BY 'password';
+FLUSH privileges;
+```
 
 restart apache  
 192.168.1.2 should work.
@@ -37,13 +50,16 @@ or can be done by [allowing the .htaccess override](https://pimylifeup.com/raspb
 * pretty urls not done yet
 * todo: TEST */var/www/html* instead of */var/www/html/nextcloud*
 
-nextcloud should work, create admin account
+nextcloud should work, create admin account:  
+
+* select data directory - see below
+* fill in database info
 
 ## hardening
 ### place data directory outside of the web root
 ```
 mkdir -p /var/nextcloud
-sudo mv -v /var/www/html/nextcloud/data/ /var/nextcloud/data
+sudo mv -v /var/www/html/nextcloud/data/ /var/nextcloud/data - not needed, just select the correct directory in the installation wizard!
 ```
 change 'ddatadirectory' in */var/www/html/nextcloud/config*
 
