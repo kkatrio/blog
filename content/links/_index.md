@@ -1,5 +1,9 @@
+---
+title: "Posts"
+date:  2017-08-08 17:13:11 +0300
+---
 
-<img width="250px; style="margin-left:50px;" src="/img/phenomena.jpg">
+<img width="250px;" style="margin-left:50px;" src="/img/phenomena.jpg">
 
 This is an unordered list. If you have a good recommendation, please [tell me about it!](mailto:kokatrio@gmail.com)
 
