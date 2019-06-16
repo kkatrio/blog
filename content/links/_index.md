@@ -128,6 +128,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [HN personal websites](https://news.ycombinator.com/item?id=19188760)
 
+[golden ratio stuff](http://extremelearning.com.au/going-beyond-golden-ratio/)
+
+[algebraic geometry](https://johncarlosbaez.wordpress.com/2019/03/15/algebraic-geometry/)
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
