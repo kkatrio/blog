@@ -72,6 +72,14 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 
 [Reinforcement learning](http://incompleteideas.net/book/RLbook2018.pdf)
 
+[Understanding cryptography](https://www.springer.com/gp/book/9783642041006)
+
+[Topics in advanced DS Stanford](https://news.ycombinator.com/item?id=19780387)
+
+[Discrete Mathematics and Functional Programming](https://cs.wheaton.edu/~tvandrun/dmfp/)
+
+[The Visual Display of Quantitative Information](https://www.amazon.com/dp/0961392142/?coliid=I3547GQWVGKLFH&colid=EI8GP25AL8FU&psc=1&ref_=lv_vv_lig_dp_it)
+
 ### Articles
 
 [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
@@ -91,6 +99,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [Was the Antikythera Mechanism the world’s first computer?](https://www.newyorker.com/magazine/2007/05/14/fragmentary-knowledge)
 
 [Images guid for web](https://images.guide/)
+
+[do-elephants-have-souls](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
+
+[monoliths vs. microservices](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
 
 ### Links
 
@@ -132,7 +144,29 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [algebraic geometry](https://johncarlosbaez.wordpress.com/2019/03/15/algebraic-geometry/)
 
+[color picker](https://bootflat.github.io/color-picker-blue.html)
+
+[distriduted systems mit](https://pdos.csail.mit.edu/6.824/index.html)
+
+[Hacker News Papers](https://www.hackernewspapers.com/)
+
+[Voronoi_Image_Manipulation](https://github.com/MauriceGit/Voronoi_Image_Manipulation)
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
 [two-wrongs](https://two-wrongs.com/)
+
+[lucb1e](http://lucb1e.com/)
+
+[bradleytaunt](https://bradleytaunt.com/)
+
+[Ben Deane](http://www.elbeno.com/blog/)
+
+[mikelui](https://mikelui.io/2019/01/03/seriously-bonkers.html)
+
+[mark christian](https://writing.markchristian.org/2019/04/29/personal-web-sites/)
+
+[apenwarr](https://apenwarr.ca/log/20190318)
+
+[Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%9100:00%E2%95%B101:50)
