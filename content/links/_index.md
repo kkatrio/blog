@@ -11,7 +11,6 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 
 [Alex’s Adventures in Numberland](http://www.alexbellos.com/numberland)
 
-
 [Never split the difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 
 [The C++ programming language](http://www.stroustrup.com/4th.html)
@@ -151,6 +150,8 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [Hacker News Papers](https://www.hackernewspapers.com/)
 
 [Voronoi_Image_Manipulation](https://github.com/MauriceGit/Voronoi_Image_Manipulation)
+
+[Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
 
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
