@@ -79,6 +79,12 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 
 [The Visual Display of Quantitative Information](https://www.amazon.com/dp/0961392142/?coliid=I3547GQWVGKLFH&colid=EI8GP25AL8FU&psc=1&ref_=lv_vv_lig_dp_it)
 
+[Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
+
+[Designing Data-Intensive Applications - Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+
+[Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
+
 ### Articles
 
 [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
@@ -102,6 +108,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [do-elephants-have-souls](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
 
 [monoliths vs. microservices](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
+
+[Eric's Guide to Hiring](https://lawler.io/scrivings/erics-guide-to-hiring-software-developers/)
+
+[Why Bad Software Happens to Good People](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
 ### Links
 
@@ -153,6 +163,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
 
+[Stellarium](https://stellarium.org/)
+
+[Paxos, Leslie Lamport lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
@@ -171,3 +185,22 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [apenwarr](https://apenwarr.ca/log/20190318)
 
 [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%9100:00%E2%95%B101:50)
+
+[The Cult of Kubernetes](https://christine.website/blog/the-cult-of-kubernetes-2019-09-07)
+
+[https://defn.io/](https://defn.io/)
+
+<!--
+### Extra
+[Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
+[Ask HN: What Have You Learned at Google as a Software Engineer?](https://news.ycombinator.com/item?id=20911340)
+[Ask HN: What are your favorite books or essays written at least 100 years ago?](https://news.ycombinator.com/item?id=20914127)
+[reverse-interview](https://github.com/viraptor/reverse-interview)
+[Ask HN: How do you personally learn?](https://news.ycombinator.com/item?id=20433926)
+[agile actors](https://agileactors.workable.com/)
+[Deus ex machina](https://ekmechanes.com/careers/)
+[job switzerland](https://swissdevjobs.ch/blog/how-to-find-job-as-software-developer-in-switzerland-complete-guide#cost-of-living-in-Switzerland)
+[startups hiring](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
+[hikvision ispy connect](https://www.ispyconnect.com/man.aspx?n=hikvision&page=2)
+[Jaana Dogan - Google interview](https://threader.app/thread/1058433116002381824)
+-->
