@@ -1,0 +1,106 @@
+body {
+    font-size: 1em;
+    color: #222;
+    line-height: 1.5;
+    padding: 2em 0;
+	font-family: 'Bitter', serif;
+}
+.resume {
+    max-width: 50em;
+    padding: 0 2em;
+    margin: 0 auto;
+    position: relative; /* do we need this */
+}
+
+
+@media (max-width: 769px) {
+	.section{ /*nope*/
+		flex-wrap: wrap;
+	}
+}
+
+
+
+.section.personal{
+	display: flex;
+	justify-content: space-between;
+
+	margin-bottom: 5em;
+}
+.section.personal .name > h1{
+	margin-bottom: 0.2em;
+}
+.section.personal .subtitle{
+	font-size: 1.5em;
+	color: #444;
+}
+.section.personal .info{
+	margin-top: 3em;
+	text-align: right;
+	font-size: 0.8em;
+	color: #555;
+}
+@media (max-width: 60em) {
+	.section.personal .info{
+		text-align: left;
+	}
+}
+
+.section .title {
+	float: left;
+	width: 20%;
+}
+@media (max-width: 60em) {
+	.section .title {
+		float: none;
+		width: auto;
+	}
+}
+
+.section .title > h2 {
+	margin: 0;
+	text-align: right;
+	font-weight: normal;
+}
+@media (max-width: 60em) {
+	.section .title > h2 {
+		text-align: left;
+	}
+}
+
+.section .entries{
+	margin-left: 20%;
+	padding-left: 2em;
+}
+@media (max-width: 60em) {
+	.section .entries {
+		margin-left: 0;
+		padding-left: 0;
+	}
+}
+
+.entry {
+	padding-bottom: 1rem;
+	margin-top: 1.2em;
+}
+.entry .date{
+	float: right;
+	margin-top: -2em;
+}
+.entry .content{
+}
+
+.listing-title{
+	font-size: 1.1em;
+}
+
+.listing-type{
+	color: #666;
+}
+
+.listing-descr {
+    padding: .5em 1em;
+    max-width: 30em;
+    /*background: #F7F7F7;*/
+    color: #444;
+}

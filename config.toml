@@ -23,9 +23,14 @@ paginate = 20
    name = "readme"
    weight = 3
    url = "/readme"
+ [[menu.main]]
+   name = "cv"
+   weight = 4
+   url = "/cv"
 
 [params]
  GithubID = "kkatrio"
  TwitterID = "bitonic5000"
  Email = "kokatrio@gmail.com"
  Name = "Kostis Katrioplas"
+ #custom_css = ["css/cv.css"]
