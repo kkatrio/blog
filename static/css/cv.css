@@ -9,23 +9,14 @@ body {
     max-width: 50em;
     padding: 0 2em;
     margin: 0 auto;
-    position: relative; /* do we need this */
+    position: relative;
 }
-
-
-@media (max-width: 769px) {
-	.section{ /*nope*/
-		flex-wrap: wrap;
-	}
+.section{
+	overflow: hidden;
+	margin-bottom: 1em;
 }
-
-
-
 .section.personal{
-	display: flex;
-	justify-content: space-between;
-
-	margin-bottom: 5em;
+	margin-bottom: 4em;
 }
 .section.personal .name > h1{
 	margin-bottom: 0.2em;
@@ -35,26 +26,14 @@ body {
 	color: #444;
 }
 .section.personal .info{
-	margin-top: 3em;
-	text-align: right;
 	font-size: 0.8em;
 	color: #555;
-}
-@media (max-width: 60em) {
-	.section.personal .info{
-		text-align: left;
-	}
+	padding-top: 2em;
 }
 
 .section .title {
 	float: left;
 	width: 20%;
-}
-@media (max-width: 60em) {
-	.section .title {
-		float: none;
-		width: auto;
-	}
 }
 
 .section .title > h2 {
@@ -62,32 +41,21 @@ body {
 	text-align: right;
 	font-weight: normal;
 }
-@media (max-width: 60em) {
-	.section .title > h2 {
-		text-align: left;
-	}
-}
 
 .section .entries{
 	margin-left: 20%;
 	padding-left: 2em;
-}
-@media (max-width: 60em) {
-	.section .entries {
-		margin-left: 0;
-		padding-left: 0;
-	}
+	padding-top: 0.35em;
 }
 
 .entry {
 	padding-bottom: 1rem;
-	margin-top: 1.2em;
 }
-.entry .date{
-	float: right;
-	margin-top: -2em;
-}
-.entry .content{
+.entry .date > h6{
+	margin: 0;
+	color: #888;
+	line-height: 2;
+	font-weight: normal;
 }
 
 .listing-title{
@@ -101,6 +69,48 @@ body {
 .listing-descr {
     padding: .5em 1em;
     max-width: 30em;
-    /*background: #F7F7F7;*/
     color: #444;
+}
+.listing-descr.publication {
+    padding: 0;
+}
+
+.hobbies-list{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.hobby{
+	float: left;
+	padding-right: 2em;
+}
+
+@media (max-width: 60em) {
+	.section .entries {
+		margin-left: 0;
+		padding-left: 0;
+	}
+	.section .title > h2 {
+		text-align: left;
+	}
+	.section .title {
+		float: none;
+		width: auto;
+	}
+}
+@media (min-width: 45em) {
+	.entry .date{
+		float: right;
+		margin-top: -1em;
+	}
+	.section.personal .info{
+		position: absolute;
+		top: 3em;
+		right: 2em;
+		text-align: right;
+		padding-top: 0;
+	}
+}
+@media print {
+  body { padding: 0; }
 }
