@@ -8,8 +8,6 @@ date:  2017-08-08 17:13:11 +0300
 Hello  
 my name is Kostis Katrioplas, I am a software engineer and a physicist.
 
-[CV](/docs/kkatriocv.pdf)
-
 <div>
   <a href="mailto:kokatrio@gmail.com">kokatrio@gmail.com</a>
 </div>
