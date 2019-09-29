@@ -85,6 +85,8 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 
 [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
 
+[Lectures in quantitative economics with python](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)
+
 ### Articles
 
 [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
@@ -112,6 +114,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [Eric's Guide to Hiring](https://lawler.io/scrivings/erics-guide-to-hiring-software-developers/)
 
 [Why Bad Software Happens to Good People](https://www.csc.gov.sg/articles/how-to-build-good-software)
+
+[The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+
+[Web crawler in go](https://creekorful.me/building-fast-modern-web-crawler/)
 
 ### Links
 
@@ -167,6 +173,18 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [Paxos, Leslie Lamport lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
 
+[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#loop-over-a-range-of-numbers)
+
+[Fuzz factory](https://github.com/rohanpadhye/FuzzFactory)
+
+[Responsive menu](https://polypane.rocks/blog/the-perfect-responsive-menu-2019/)
+
+[PenTesters](https://www.pentestpartners.com/)
+
+[Computer science online courses list](https://github.com/ossu/computer-science)
+
+[Watermill - golang automata](https://duckduckgo.com/)
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
@@ -189,6 +207,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [The Cult of Kubernetes](https://christine.website/blog/the-cult-of-kubernetes-2019-09-07)
 
 [https://defn.io/](https://defn.io/)
+
+[Paul Cavallaro](https://paulcavallaro.com/blog/)
+
+[Derek Sivers](https://sivers.org/4)
 
 <!--
 ### Extra
