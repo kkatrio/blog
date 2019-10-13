@@ -185,6 +185,12 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [Watermill - golang automata](https://duckduckgo.com/)
 
+[Awesome wasm](https://github.com/mbasso/awesome-wasm/blob/master/README.md)
+
+[awk tutorial](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html)
+
+[JavaScript Broughlike Tutorial](https://nluqo.github.io/broughlike-tutorial/)
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
@@ -225,4 +231,5 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [startups hiring](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
 [hikvision ispy connect](https://www.ispyconnect.com/man.aspx?n=hikvision&page=2)
 [Jaana Dogan - Google interview](https://threader.app/thread/1058433116002381824)
+[Kubernetes workshop](https://github.com/eon01/kubernetes-workshop)
 -->
