@@ -87,6 +87,8 @@ This is an unordered list. If you have a good recommendation, please [tell me ab
 
 [Lectures in quantitative economics with python](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)
 
+[Maths for Machine Learning](https://mml-book.github.io/)
+
 ### Articles
 
 [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
@@ -118,6 +120,15 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
 
 [Web crawler in go](https://creekorful.me/building-fast-modern-web-crawler/)
+
+[Earth and sun](https://ciechanow.ski/earth-and-sun/)
+
+[Reason won't save us](http://nautil.us/issue/77/underworlds/reason-wont-save-us)
+
+[Regular expressions tutorial](https://www.redhat.com/sysadmin/getting-started-regular-expressions-example)
+
+[ML From Scratch, Part 1: Linear Regression](http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/)
+
 
 ### Links
 
@@ -191,6 +202,9 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [JavaScript Broughlike Tutorial](https://nluqo.github.io/broughlike-tutorial/)
 
+[stack overflow Stroustrup QAs](https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/)
+
+
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
 
@@ -232,4 +246,7 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [hikvision ispy connect](https://www.ispyconnect.com/man.aspx?n=hikvision&page=2)
 [Jaana Dogan - Google interview](https://threader.app/thread/1058433116002381824)
 [Kubernetes workshop](https://github.com/eon01/kubernetes-workshop)
+[Free for dev](https://free-for.dev/#/)
+[Stupid unix tricks](https://sneak.berlin/20191011/stupid-unix-tricks/)
+[HN comments SICP](https://news.ycombinator.com/item?id=21299546)
 -->
