@@ -144,6 +144,12 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [HN talks 2018](https://news.ycombinator.com/item?id=18740939)
 
+[HN books somewhat fundamental](https://news.ycombinator.com/item?id=21299546)
+
+[more HN books somewhat fundamental](https://news.ycombinator.com/item?id=21311302)
+
+[git presentation](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/19)
+
 [countly-server](https://github.com/Countly/countly-server)
 
 [HN top pdf 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
@@ -204,6 +210,10 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [stack overflow Stroustrup QAs](https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/)
 
+[Linear programming](https://nebusresearch.wordpress.com/2019/10/10/my-2019-mathematics-a-to-z-linear-programming/)
+
+[Think python books](https://greenteapress.com/wp/)
+
 
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
@@ -249,4 +259,5 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 [Free for dev](https://free-for.dev/#/)
 [Stupid unix tricks](https://sneak.berlin/20191011/stupid-unix-tricks/)
 [HN comments SICP](https://news.ycombinator.com/item?id=21299546)
+[Switzerland](https://swissdevjobs.ch/blog/switzerland-vs-silicon-valley)
 -->
