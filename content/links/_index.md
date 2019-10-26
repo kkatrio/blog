@@ -214,6 +214,14 @@ Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 
 [Think python books](https://greenteapress.com/wp/)
 
+[some knowledge wiki](https://github.com/nikitavoloboev/knowledge)
+
+[HN games](https://news.ycombinator.com/item?id=21351695)
+
+[HN maths books](https://news.ycombinator.com/item?id=21346272)
+
+[neuron nets game](https://github.com/victorqribeiro/aimAndShoot)
+
 
 ### Blogs
 [Paul Graham](http://www.paulgraham.com/index.html)
