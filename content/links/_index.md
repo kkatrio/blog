@@ -139,6 +139,8 @@ es_political_attitudes.pdf)
 
 [HN talks 2018](https://news.ycombinator.com/item?id=18740939)
 
+[HN best books](https://news.ycombinator.com/item?id=21900498)
+
 [HN books somewhat fundamental](https://news.ycombinator.com/item?id=21299546)
 
 [more HN books somewhat fundamental](https://news.ycombinator.com/item?id=21311302)
@@ -197,7 +199,6 @@ es_political_attitudes.pdf)
 
 [Watermill - golang automata](https://duckduckgo.com/)
 
-
 [Awesome wasm](https://github.com/mbasso/awesome-wasm/blob/master/README.md)
 
 [awk tutorial](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html)
@@ -225,6 +226,14 @@ es_political_attitudes.pdf)
 [VPN wireguard](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard)
 
 [Kubernetes cluster](https://github.com/ReSearchITEng/kubeadm-playbook/)
+
+[stylecloud](https://github.com/minimaxir/stylecloud)
+
+[Markov sh, grep awk](https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/)
+
+[Unix tricks](https://sneak.berlin/20191011/stupid-unix-tricks/)
+
+[Home assistant](https://www.home-assistant.io/)
 
 ### Blogs
 
@@ -257,6 +266,8 @@ es_political_attitudes.pdf)
 
 [AI for WiFi Hacking](https://www.evilsocket.net/2019/10/19/Weaponizing-and-Gamifying-AI-for-WiFi-Hacking-Presenting-Pwnagotchi-1-0-0/)
 
+[Invisible Arch Linux](https://habd.as/post/invisible-arch-linux/)
+
 <!--
 ### Extra
 [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -277,4 +288,5 @@ es_political_attitudes.pdf)
 [Switzerland](https://swissdevjobs.ch/blog/switzerland-vs-silicon-valley)
 [HN discussion on working areas](https://news.ycombinator.com/item?id=21324768)
 [Go - Rust discussion](https://news.ycombinator.com/item?id=20983922)
+[IRC discussion](https://news.ycombinator.com/item?id=21691802)
 -->
