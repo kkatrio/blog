@@ -87,6 +87,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 
 [Maths for Machine Learning](https://mml-book.github.io/)
 
+[Dive into deep learning](https://d2l.ai/)
+
 ### Articles
 
 [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
@@ -268,6 +270,12 @@ es_political_attitudes.pdf)
 
 [Invisible Arch Linux](https://habd.as/post/invisible-arch-linux/)
 
+[Polygons](http://fabiensanglard.net/another_world_polygons/index.html)
+
+[Go routines and channels](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/)
+
+[who github io](https://wh0.github.io/)
+
 <!--
 ### Extra
 [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -289,4 +297,5 @@ es_political_attitudes.pdf)
 [HN discussion on working areas](https://news.ycombinator.com/item?id=21324768)
 [Go - Rust discussion](https://news.ycombinator.com/item?id=20983922)
 [IRC discussion](https://news.ycombinator.com/item?id=21691802)
+[Questions interview](https://medium.com/convoy-tech/fantastic-questions-and-when-to-ask-them-79be807d7ce1)
 -->
