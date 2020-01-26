@@ -205,6 +205,8 @@ es_political_attitudes.pdf)
 
 [awk tutorial](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html)
 
+[awk learn](https://blog.jpalardy.com/posts/why-learn-awk/)
+
 [JavaScript Broughlike Tutorial](https://nluqo.github.io/broughlike-tutorial/)
 
 [stack overflow Stroustrup QAs](https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/)
