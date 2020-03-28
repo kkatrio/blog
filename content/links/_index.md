@@ -300,4 +300,7 @@ es_political_attitudes.pdf)
 [Go - Rust discussion](https://news.ycombinator.com/item?id=20983922)
 [IRC discussion](https://news.ycombinator.com/item?id=21691802)
 [Questions interview](https://medium.com/convoy-tech/fantastic-questions-and-when-to-ask-them-79be807d7ce1)
+
+[Music for a Large Ensemble](https://www.youtube.com/watch?v=3VM8QpN05H0)
+[edges of illusion](httpswww.youtube.com/watch?v=3VM8QpN05H0)
 -->
