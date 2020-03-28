@@ -38,3 +38,6 @@ paginate = 20
  Email = "kokatrio@gmail.com"
  Name = "Kostis Katrioplas"
  #custom_css = ["css/cv.css"]
+
+[markup.goldmark.renderer]
+unsafe= true
