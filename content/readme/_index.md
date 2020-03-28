@@ -13,11 +13,7 @@ my name is Kostis Katrioplas, I am a software engineer and a physicist.
 </div>
 
 <div>
-
   <a href="https://twitter.com/bitonic5000" title="Twitter"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
-
   <a href="https://github.com/kkatrio" title="GitHub"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-
   <a href="mailto:kokatrio@gmail.com" title="Email"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
-
 </div>

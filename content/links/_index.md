@@ -231,6 +231,8 @@ es_political_attitudes.pdf)
 
 [Kubernetes cluster](https://github.com/ReSearchITEng/kubeadm-playbook/)
 
+[Kubernetes raspberry](https://www.jeffgeerling.com/blog/2019/everything-i-know-about-kubernetes-i-learned-cluster-raspberry-pis)
+
 [stylecloud](https://github.com/minimaxir/stylecloud)
 
 [Markov sh, grep awk](https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/)
@@ -238,6 +240,8 @@ es_political_attitudes.pdf)
 [Unix tricks](https://sneak.berlin/20191011/stupid-unix-tricks/)
 
 [Home assistant](https://www.home-assistant.io/)
+
+[Bash hackers wiki](https://wiki-dev.bash-hackers.org/)
 
 ### Blogs
 
@@ -277,6 +281,8 @@ es_political_attitudes.pdf)
 [Go routines and channels](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/)
 
 [who github io](https://wh0.github.io/)
+
+[yurichev](https://yurichev.com/)
 
 <!--
 ### Extra
