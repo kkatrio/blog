@@ -129,6 +129,10 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [stanford security course](https://web.stanford.edu/class/cs253/)
 - [rpi home server](https://smalldata.tech/blog/2019/07/12/setting-up-a-raspberry-pi-4-home-server)
 - [rpi license palte reader ml](https://towardsdatascience.com/i-built-a-diy-license-plate-reader-with-a-raspberry-pi-and-machine-learning-7e428d3c7401)
+- [unix scripts](https://github.com/unixnut/scripts)
+- [reinforcement learning exercises](https://github.com/dennybritz/reinforcement-learning)
+- [HN learning courses](https://news.ycombinator.com/item?id=22786287)
+- [openvpn rpi](https://hugo-ma-alves.github.io/2019-03-27-pivpn-raspberry/)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -150,6 +154,10 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [who github io](https://wh0.github.io/)
 - [yurichev](https://yurichev.com/)
 - [gears blog](https://ciechanow.ski/gears/)
+- [spinellis unix scripts](https://www.spinellis.gr/blog/20200323/?edxcu20200324)
+- [accidentally turing complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
+- [stoicism guide to good life](https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life)
+- [karpathy reinforcement pong](https://karpathy.github.io/2016/05/31/rl/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -174,4 +182,9 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Questions interview](https://medium.com/convoy-tech/fantastic-questions-and-when-to-ask-them-79be807d7ce1)
 - [Music for a Large Ensemble](https://www.youtube.com/watch?v=3VM8QpN05H0)
 - [edges of illusion](httpswww.youtube.com/watch?v=3VM8QpN05H0)
+- [speedport modem](https://bbb-solutions.blogspot.com/2015/11/speedport-entry-2i-modem.html)
+- [cosmote pdf speedport](https://www.messina-pbx.gr/images/stories/ote/%CE%A7%CE%A1%CE%97%CE%A3%CE%97%20LAN1%20%CE%A9%CE%A3%20WAN(oxygen).pdf)
+- [adslgr speedport](https://www.adslgr.com/forum/threads/909707-%CE%A7%CF%81%CE%AE%CF%83%CE%B7-Speedport-%CE%BC%CF%8C%CE%BD%CE%BF-%CE%B3%CE%B9%CE%B1-VoIP-Cosmote-%CF%80%CE%AF%CF%83%CF%89-%CE%B1%CF%80%CF%8C-%CE%AC%CE%BB%CE%BB%CE%BF-router-(ASUS)/page73)
+- [adslgr speedport](https://www.adslgr.com/forum/threads/1048390-Speedport-Plus?p=6486434#post6486434)
+- [speedport forum](https://avclub.gr/forum/showthread.php/166906-%CE%91%CE%B3%CE%BF%CF%81%CE%AC-Router/page6)
 -->

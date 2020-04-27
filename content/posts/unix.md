@@ -1,7 +1,6 @@
 ---
 title: "Unix"
 date: 2020-04-27T13:32:24+03:00
-draft: true
 ---
 
 Notes from [edX: Unix Tools: Data, Software and Production Engineering](https://courses.edx.org/courses/course-v1:DelftX+UnixTx+1T2020/course/)
