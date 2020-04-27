@@ -12,14 +12,14 @@ I live in the country, near some sea, not close to a city. Had you spent a dark 
 It is difficult at first because you realize that you must research many components and combine various different parts: network equipment, computers, cameras, electronics, software. Now I see the camera feed as the equivalent of logging in software. Good logging is essential.
 
 ## Zoneminder
-Free and open source, of course. Zoneminder is an alternative to a ready - out of the box NVR solution. Knowing Zoneminder exists has been very important to encourage me getting started. The community is alive and helpful, offers lots of useful information and guidance.
+Free and open source,  Zoneminder is an alternative to a ready -out of the box- NVR solution. Knowing Zoneminder exists has been very important to encourage me getting started. The community is alive and helpful, offers lots of useful information and guidance.
 
 As a complete solution at first it may seem a bit intimidating, because you need dedicated hardware to install it, and hardware resources is an issue since video feed and its analysis is no negligible task. A budget and good enough solution, according to the zoneminder community, is to buy a used server. An alternative is to build your own server or use some old-ish pc. I like building things so I built my own.
 
 ## Home server
-Information about gaming oriented desktop hardware online is abundant. Finally, I bought a completely overkill by any means 8-core 16-thread 3rd gen AMD cpu, 16 gb of memory, a 300 euro motherboard and a good power supply. For less important parts I used old materials that I had laying around: drives, cables, graphics cards. Oh, and I bought a new cool case with built-in rgb leds. That was just for fun.
+Information about gaming oriented desktop hardware online is abundant. Finally, I bought a completely overkill 8-core 16-thread 3rd gen AMD cpu, 16 gb of memory, a 300 euro motherboard and a good power supply. For less important parts I used old materials that I had laying around: drives, cables, graphics cards. Oh, and I bought a new cool case with built-in rgb leds. That was just for fun.
 
-Building was interesting. I built it little by little during a week. First I put together all the basic parts outside the case, and when I realized that it was working I felt satisfaction. 
+Building was interesting. I built it little by little during a week. First I put together all the basic parts outside the case, and when I realized that it was working I got fiiled with satisfaction. 
 
 ![leak](/img/serverpost.jpg)
 
@@ -41,7 +41,7 @@ Drilling a hole in the wall was necessary too. Can you drill a hole in your home
 ![leak](/img/wallhole.jpg)
 
 ## Scale
-Right now I have two cameras deployed but I will buy about 5 more. Well, at least 5. I will be adding and expanding over the years and the needs. That's one benefit of doing it on your own I guess, you can do what you like and exactly what you need. 
+Right now I have two cameras deployed but my plans invole at least 5 more. I will be adding and expanding gradually. That's one benefit of doing it on your own I guess.
 
 Now, using your cameras outdoors is completely different from using them indoors. So so many variables and conditions difficult to predict. There are no correct sensitivity values if you do motion detection. There are flies and insects attracted by the infrared light of the cameras during the night. There is rain, there are dogs, cats, wind, leaves, sun, all creating creating false alarms and parameters to take into account. But I don't mind. 
 
