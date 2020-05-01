@@ -158,6 +158,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [accidentally turing complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 - [stoicism guide to good life](https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life)
 - [karpathy reinforcement pong](https://karpathy.github.io/2016/05/31/rl/)
+- [writing -- dev experience](https://rachelbythebay.com/w/2020/04/30/dev/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -187,4 +188,5 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [adslgr speedport](https://www.adslgr.com/forum/threads/909707-%CE%A7%CF%81%CE%AE%CF%83%CE%B7-Speedport-%CE%BC%CF%8C%CE%BD%CE%BF-%CE%B3%CE%B9%CE%B1-VoIP-Cosmote-%CF%80%CE%AF%CF%83%CF%89-%CE%B1%CF%80%CF%8C-%CE%AC%CE%BB%CE%BB%CE%BF-router-(ASUS)/page73)
 - [adslgr speedport](https://www.adslgr.com/forum/threads/1048390-Speedport-Plus?p=6486434#post6486434)
 - [speedport forum](https://avclub.gr/forum/showthread.php/166906-%CE%91%CE%B3%CE%BF%CF%81%CE%AC-Router/page6)
+- [rules of thumb development](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 -->
