@@ -48,6 +48,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Lectures in quantitative economics with python](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)
 - [Maths for Machine Learning](https://mml-book.github.io/)
 - [Dive into deep learning](https://d2l.ai/)
+- [Bayesian data analysis](https://users.aalto.fi/~ave/BDA3.pdf)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -66,6 +67,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Reason won't save us](http://nautil.us/issue/77/underworlds/reason-wont-save-us)
 - [Regular expressions tutorial](https://www.redhat.com/sysadmin/getting-started-regular-expressions-example)
 - [ML From Scratch, Part 1: Linear Regression](http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/)
+- [history of lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 ### Links
 - [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted#dns)
@@ -159,6 +161,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [stoicism guide to good life](https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life)
 - [karpathy reinforcement pong](https://karpathy.github.io/2016/05/31/rl/)
 - [writing -- dev experience](https://rachelbythebay.com/w/2020/04/30/dev/)
+- [c++ vittorioromeo gamedev](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
