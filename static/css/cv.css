@@ -5,6 +5,16 @@ body {
     padding: 2em 0;
 	font-family: 'Bitter', serif;
 }
+a {
+	color: navy;
+}
+ul {
+	margin: 0;
+	padding-left: 20px;
+}
+li {
+	margin: 0.2rem 0;
+}
 .resume {
     max-width: 50em;
     padding: 0 2em;
@@ -63,13 +73,16 @@ body {
 }
 
 .listing-type{
-	color: #666;
+	color: #444;
 }
 
 .listing-descr {
     padding: .5em 1em;
     max-width: 30em;
-    color: #444;
+    color: #666;
+}
+.listing-descr > a {
+	color: navy;
 }
 .listing-descr.publication {
     padding: 0;
