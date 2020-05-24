@@ -6,7 +6,7 @@ body {
 	font-family: 'Bitter', serif;
 }
 a {
-	color: navy;
+	color: #666;
 }
 ul {
 	margin: 0;
@@ -82,7 +82,7 @@ li {
     color: #666;
 }
 .listing-descr > a {
-	color: navy;
+	color: #666;
 }
 .listing-descr.publication {
     padding: 0;
