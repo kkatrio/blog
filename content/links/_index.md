@@ -68,6 +68,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Regular expressions tutorial](https://www.redhat.com/sysadmin/getting-started-regular-expressions-example)
 - [ML From Scratch, Part 1: Linear Regression](http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/)
 - [history of lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
+- [mazes](https://www.jamisbuck.org/mazes/)
+- [reinforcement trading](https://arxiv.org/pdf/2002.11523.pdf)
 ### Links
 - [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted#dns)
@@ -135,6 +137,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [reinforcement learning exercises](https://github.com/dennybritz/reinforcement-learning)
 - [HN learning courses](https://news.ycombinator.com/item?id=22786287)
 - [openvpn rpi](https://hugo-ma-alves.github.io/2019-03-27-pivpn-raspberry/)
+- [openvnp security tips](https://blog.g3rt.nl/openvpn-security-tips.html)
+- [HN WebRTC](https://news.ycombinator.com/item?id=23023675)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -162,6 +166,10 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [karpathy reinforcement pong](https://karpathy.github.io/2016/05/31/rl/)
 - [writing -- dev experience](https://rachelbythebay.com/w/2020/04/30/dev/)
 - [c++ vittorioromeo gamedev](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html)
+- [christine suckless](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
+- [ai - approach](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
+- [karpathy - biohacking life](https://karpathy.github.io/2020/06/11/biohacking-lite/)
+- [e-ink display dashboard raspberry arduino](https://healeycodes.com/hacking-together-an-e-ink-dashboard/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -184,6 +192,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Go - Rust discussion](https://news.ycombinator.com/item?id=20983922)
 - [IRC discussion](https://news.ycombinator.com/item?id=21691802)
 - [Questions interview](https://medium.com/convoy-tech/fantastic-questions-and-when-to-ask-them-79be807d7ce1)
+- [interview bit](https://www.interviewbit.com/)
 - [Music for a Large Ensemble](https://www.youtube.com/watch?v=3VM8QpN05H0)
 - [edges of illusion](httpswww.youtube.com/watch?v=3VM8QpN05H0)
 - [speedport modem](https://bbb-solutions.blogspot.com/2015/11/speedport-entry-2i-modem.html)
