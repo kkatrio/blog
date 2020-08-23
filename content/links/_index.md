@@ -139,6 +139,9 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [openvpn rpi](https://hugo-ma-alves.github.io/2019-03-27-pivpn-raspberry/)
 - [openvnp security tips](https://blog.g3rt.nl/openvpn-security-tips.html)
 - [HN WebRTC](https://news.ycombinator.com/item?id=23023675)
+- [degoogle](https://degoogle.jmoore.dev/)
+- [reservoir sampling](https://en.wikipedia.org/wiki/Reservoir_sampling)
+- [terror management theory](https://en.wikipedia.org/wiki/Terror_management_theory)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -170,6 +173,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [ai - approach](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
 - [karpathy - biohacking life](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 - [e-ink display dashboard raspberry arduino](https://healeycodes.com/hacking-together-an-e-ink-dashboard/)
+- [guide to good life - stoicism](https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life)
+- [go cli](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -201,4 +206,5 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [adslgr speedport](https://www.adslgr.com/forum/threads/1048390-Speedport-Plus?p=6486434#post6486434)
 - [speedport forum](https://avclub.gr/forum/showthread.php/166906-%CE%91%CE%B3%CE%BF%CF%81%CE%AC-Router/page6)
 - [rules of thumb development](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+- [github porfile bndw](https://github.com/bndw)
 -->
