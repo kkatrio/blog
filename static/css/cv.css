@@ -87,6 +87,9 @@ li {
 .listing-descr.publication {
     padding: 0;
 }
+.listing-descr.hobbies {
+    padding: 0 1em;
+}
 
 .hobbies-list{
 	list-style-type: none;
