@@ -49,6 +49,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Maths for Machine Learning](https://mml-book.github.io/)
 - [Dive into deep learning](https://d2l.ai/)
 - [Bayesian data analysis](https://users.aalto.fi/~ave/BDA3.pdf)
+- [Surely Mr. Feynman](https://chem.fsu.edu/chemlab/isc3523c/feyn_surely.pdf)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -70,6 +71,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [history of lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 - [mazes](https://www.jamisbuck.org/mazes/)
 - [reinforcement trading](https://arxiv.org/pdf/2002.11523.pdf)
+- [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 ### Links
 - [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted#dns)
@@ -142,6 +144,16 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [degoogle](https://degoogle.jmoore.dev/)
 - [reservoir sampling](https://en.wikipedia.org/wiki/Reservoir_sampling)
 - [terror management theory](https://en.wikipedia.org/wiki/Terror_management_theory)
+- [open culture](https://www.openculture.com/2012/08/the_character_of_physical_law_richard_feynmans_legendary_lecture_series_at_cornell_1964.html)
+- [speedport router hacks](https://github.com/nikolas-n/Speedport-Plus-Cosmote-Router-hacks)
+- [visual guide to SSH tunnels](https://news.ycombinator.com/item?id=26053323)
+- [Basic Raytracing](https://gabrielgambetta.com/computer-graphics-from-scratch/02-basic-raytracing.html)
+- [cbonsai](https://news.ycombinator.com/item?id=26336396)
+- [k-anonymity](https://en.wikipedia.org/wiki/K-anonymity)
+- [When Feynman met Dirac](https://news.ycombinator.com/item?id=26697227)
+- [When  met Dirac](https://news.ycombinator.com/item?id=26697227)
+- [findareddit](https://www.findareddit.com/category/technology/subcategory/gadgets/tag/smart-home)
+- [mount.nsf](https://unix.stackexchange.com/questions/433051/mount-nfs-stale-file-handle-error-cannot-umount)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -175,6 +187,10 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [e-ink display dashboard raspberry arduino](https://healeycodes.com/hacking-together-an-e-ink-dashboard/)
 - [guide to good life - stoicism](https://hoanhan101.github.io/2020/04/26/guide-to-the-good-life)
 - [go cli](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
+- [kk.org--technium--class1/class2 problems](https://kk.org/thetechnium/class-1-class-2-problems/)
+- [mwl.io -- networking](https://mwl.io/nonfiction/networking#tls)
+- [how to be a stoic](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
+- [start your own isp](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -207,4 +223,5 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [speedport forum](https://avclub.gr/forum/showthread.php/166906-%CE%91%CE%B3%CE%BF%CF%81%CE%AC-Router/page6)
 - [rules of thumb development](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 - [github porfile bndw](https://github.com/bndw)
+- [senior skills](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 -->
