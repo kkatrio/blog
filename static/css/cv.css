@@ -72,6 +72,12 @@ li {
 	font-size: 1.1em;
 }
 
+.listing-small-title{
+    font-style: italic;
+	font-size: 0.9em;
+    font-weight: bold;
+}
+
 .listing-type{
 	color: #444;
 }
