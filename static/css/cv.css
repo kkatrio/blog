@@ -91,7 +91,7 @@ li {
 	color: #666;
 }
 .listing-descr.publication {
-    padding: 0;
+    padding: .1em 1em;
 }
 .listing-descr.hobbies {
     padding: 0 1em;
