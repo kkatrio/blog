@@ -7,6 +7,7 @@ date:  2017-08-08 17:13:11 +0300
 This is an unordered list. If you have a good recommendation, [tell me about it!](mailto:kokatrio@gmail.com)
 
 ### Books
+- [beej socket programming](https://beej.us/guide/bgnet/html/)
 - [Alex’s Adventures in Numberland](http://www.alexbellos.com/numberland)
 - [Never split the difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 - [The C++ programming language](http://www.stroustrup.com/4th.html)
@@ -53,6 +54,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [enjoy-chess](https://andytrattner.com/img/pdf/enjoy-chess.pdf)
 - [Designing data intensive applications](https://dataintensive.net/)
 - [Hot to solve it](https://duckduckgo.com/?q=how+to+solve+it&t=ffab&ia=web)
+- [Jabob's room](https://standardebooks.org/ebooks/virginia-woolf/jacobs-room)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -74,6 +76,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [history of lisp](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 - [mazes](https://www.jamisbuck.org/mazes/)
 - [reinforcement trading](https://arxiv.org/pdf/2002.11523.pdf)
+- [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 - [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 ### Links
 - [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
@@ -101,12 +104,14 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [algebraic geometry](https://johncarlosbaez.wordpress.com/2019/03/15/algebraic-geometry/)
 - [color picker](https://bootflat.github.io/color-picker-blue.html)
 - [distriduted systems mit](https://pdos.csail.mit.edu/6.824/index.html)
+- [principles distributed computing eth](https://disco.ethz.ch/courses/podc_allstars/)
 - [Hacker News Papers](https://www.hackernewspapers.com/)
 - [Voronoi_Image_Manipulation](https://github.com/MauriceGit/Voronoi_Image_Manipulation)
 - [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
 - [Stellarium](https://stellarium.org/)
 - [Paxos, Leslie Lamport lectures](https://lamport.azurewebsites.net/tla/paxos-algorithm.html)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#loop-over-a-range-of-numbers)
+- [bash conditionals](https://timvisee.com/blog/elegant-bash-conditionals/)
 - [Fuzz factory](https://github.com/rohanpadhye/FuzzFactory)
 - [Responsive menu](https://polypane.rocks/blog/the-perfect-responsive-menu-2019/)
 - [PenTesters](https://www.pentestpartners.com/)
@@ -175,6 +180,11 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [tetris](https://news.ycombinator.com/item?id=29728892)
 - [play to earn](https://news.ycombinator.com/item?id=29716900)
 - [docker mailserver](https://github.com/docker-mailserver/docker-mailserver/#usage)
+- [HN coolest sites](https://news.ycombinator.com/item?id=31708366)
+- [linux tunnels wireguard](https://kiwiziti.com/~matt/wireguard/)
+- [dns server rust](https://github.com/EmilHernvall/dnsguide)
+- [crypto 101](https://www.crypto101.io/)
+- [HN books](https://news.ycombinator.com/item?id=30734709)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -217,6 +227,16 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [travel is no cure for the mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 - [ripgrep](https://blog.burntsushi.net/ripgrep/)
 - [charlie's diary](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
+- [lunatic rust](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
+- [mechanical watch](https://ciechanow.ski/mechanical-watch/)
+- [brendan gregg load perf](https://www.brendangregg.com/overview.html)
+- [listen on a port](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+- [play to earn](https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/)
+- [network troubleshooting](https://www.netmeister.org/blog/basic-network-troubleshooting.html)
+- [fs seneca](https://fs.blog/intellectual-giants/seneca/)
+- [heuristics that almost always work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)
+- [vim advanced](https://thevaluable.dev/vim-advanced/)
+- [dns toys](https://www.dns.toys/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
@@ -252,4 +272,5 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [senior skills](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - [blind](https://www.teamblind.com/)
 - [algorithm passing programming interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
+- [changing jobs](https://www.adamconrad.dev/blog/changing-jobs-during-the-great-resignation/)
 -->
