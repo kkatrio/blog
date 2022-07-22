@@ -237,6 +237,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [heuristics that almost always work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)
 - [vim advanced](https://thevaluable.dev/vim-advanced/)
 - [dns toys](https://www.dns.toys/)
+- [Eli blog learning Rust](https://eli.thegreenplace.net/)
+- [Levien blog UI Rust](https://raphlinus.github.io/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
