@@ -55,6 +55,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Designing data intensive applications](https://dataintensive.net/)
 - [Hot to solve it](https://duckduckgo.com/?q=how+to+solve+it&t=ffab&ia=web)
 - [Jabob's room](https://standardebooks.org/ebooks/virginia-woolf/jacobs-room)
+- [Book of experiments](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
+- [Algorithms for decision making](https://news.ycombinator.com/item?id=32034409)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -77,7 +79,7 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [mazes](https://www.jamisbuck.org/mazes/)
 - [reinforcement trading](https://arxiv.org/pdf/2002.11523.pdf)
 - [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
-- [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
+- [lessons mit education](https://people.tamu.edu/~huafei-yan//Rota/mitless.html)
 ### Links
 - [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted#dns)
@@ -185,6 +187,10 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [dns server rust](https://github.com/EmilHernvall/dnsguide)
 - [crypto 101](https://www.crypto101.io/)
 - [HN books](https://news.ycombinator.com/item?id=30734709)
+- [Stanford algorithmic toolbox course](https://news.ycombinator.com/item?id=32788475)
+- [Standard ebooks](https://news.ycombinator.com/item?id=32215324)
+- [Practice system design](https://news.ycombinator.com/item?id=32093879)
+- [HN obscure data structures](https://news.ycombinator.com/item?id=32186203)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -239,6 +245,8 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [dns toys](https://www.dns.toys/)
 - [Eli blog learning Rust](https://eli.thegreenplace.net/)
 - [Levien blog UI Rust](https://raphlinus.github.io/)
+- [Andrew Gallant Rust blog](https://blog.burntsushi.net/)
+- [Programming books](https://news.ycombinator.com/item?id=32788281)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
