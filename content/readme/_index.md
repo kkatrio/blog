@@ -6,7 +6,7 @@ date:  2017-08-08 17:13:11 +0300
 <img width="250px;" style="margin-left:15px;" src="/img/me2.jpg">
 
 Hello  
-my name is Kostis Katrioplas, I am a software engineer and a physicist.
+my name is Konstantinos Katrioplas, I am a software engineer and a physicist.
 
 <div>
   <a href="mailto:kokatrio@gmail.com">kokatrio@gmail.com</a>
