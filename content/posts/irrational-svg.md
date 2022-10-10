@@ -3,8 +3,8 @@ title: "Draw irrational paths"
 date: 2022-08-15T20:36:47+03:00
 ---
 
-## Create an svg out of irrational numbers 
+I created an svg path out of 1 million digits. Here it is: [pi](/img/pi.svg), it is 20Mb. I did it in Rust.
 
-Created a path out of 1 million digits. Inspired by [numberphile](https://www.youtube.com/watch?v=tkC1HHuuk7c).
+Inspired by [numberphile](https://www.youtube.com/watch?v=tkC1HHuuk7c).
 
-[pi](/img/pi.svg)
+

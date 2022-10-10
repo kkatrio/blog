@@ -12,21 +12,21 @@ paginate = 20
   weight = 1
   url = "/"
  [[menu.main]]
-   name = "posts"
+   name = "projects"
    weight = 1
+   url = "/projects"
+ [[menu.main]]
+   name = "posts"
+   weight = 2
    url = "/posts"
  [[menu.main]]
    name = "links"
-   weight = 2
+   weight = 3
    url = "/links"
  [[menu.main]]
    name = "quotes"
-   weight = 3
-   url = "/quotes"
- [[menu.main]]
-   name = "readme"
    weight = 4
-   url = "/readme"
+   url = "/quotes"
  [[menu.main]]
    name = "cv"
    weight = 5
