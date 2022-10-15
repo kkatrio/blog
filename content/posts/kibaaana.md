@@ -1,6 +1,7 @@
 ---
 title: "Kibaaana"
 date: 2019-06-05T21:42:02+03:00
+draft: true
 ---
 
 

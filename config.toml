@@ -1,6 +1,6 @@
 baseURL = "https://dikatrio.xyz"
 languageCode = "en-us"
-title = "Kostis Katrioplas"
+title = "Kostas Katrioplas"
 theme = "square"
 
 pluralizeListTitles = false
@@ -36,7 +36,7 @@ paginate = 20
  GithubID = "kkatrio"
  TwitterID = "bitonic5000"
  Email = "kokatrio@gmail.com"
- Name = "Kostis Katrioplas"
+ Name = "Kostas Katrioplas"
 
  # not needed if we link the resource in a html header
  #custom_css = ["css/cv.css"]

@@ -4,8 +4,6 @@ date:  2017-08-08 17:13:11 +0300
 ---
 <img width="250px;" style="margin-left:50px;" src="/img/phenomena.jpg">
 
-This is an unordered list. If you have a good recommendation, [tell me about it!](mailto:kokatrio@gmail.com)
-
 ### Books
 - [beej socket programming](https://beej.us/guide/bgnet/html/)
 - [Alex’s Adventures in Numberland](http://www.alexbellos.com/numberland)
@@ -191,6 +189,9 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Standard ebooks](https://news.ycombinator.com/item?id=32215324)
 - [Practice system design](https://news.ycombinator.com/item?id=32093879)
 - [HN obscure data structures](https://news.ycombinator.com/item?id=32186203)
+- [HN content blogs](https://news.ycombinator.com/item?id=33212499)
+- [ntfy.sh](https://ntfy.sh/)
+- [project euler](https://projecteuler.net/archives)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -247,6 +248,9 @@ This is an unordered list. If you have a good recommendation, [tell me about it!
 - [Levien blog UI Rust](https://raphlinus.github.io/)
 - [Andrew Gallant Rust blog](https://blog.burntsushi.net/)
 - [Programming books](https://news.ycombinator.com/item?id=32788281)
+- [Xe nice style](https://xeiaso.net/)
+- [float toy](https://evanw.github.io/float-toy/)
+- [startup start](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
