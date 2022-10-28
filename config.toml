@@ -24,12 +24,8 @@ paginate = 20
    weight = 3
    url = "/links"
  [[menu.main]]
-   name = "quotes"
-   weight = 4
-   url = "/quotes"
- [[menu.main]]
    name = "cv"
-   weight = 5
+   weight = 4
    url = "/cv"
 
 [params]

@@ -1,7 +1,7 @@
 ---
 title: "Mandelbrot"
 date: 2022-10-10T20:36:47+03:00
-description: "The Mandelbrot set in Rust and WebAssembly -- [demo](https://dikatrio.xyz/mandelbrot) --- Oct 2022"
+description: "The Mandelbrot set in Rust and WebAssembly -- [demo](https://dikatrio.xyz/mandelbrot) -- [code](https://github.com/kkatrio/mandelbrot) --- Oct 2022"
 resources:
 - name: "featured-image"
   src: "mandelbrot.png"

@@ -1,7 +1,7 @@
 ---
 title: "Irrational svg"
 date: 2022-08-15T20:36:47+03:00
-description: "Create svg from irrational number digits in Rust --- Aug 2022"
+description: "Create svg from irrational number digits in Rust -- [code](https://github.com/kkatrio/irrational) --- Aug 2022"
 resources:
 - name: "featured-image"
   src: "pisvg.png"
