@@ -55,6 +55,7 @@ date:  2017-08-08 17:13:11 +0300
 - [Jabob's room](https://standardebooks.org/ebooks/virginia-woolf/jacobs-room)
 - [Book of experiments](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 - [Algorithms for decision making](https://news.ycombinator.com/item?id=32034409)
+- [self teaching sicp](https://romanbird.github.io/sicp/)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -192,6 +193,8 @@ date:  2017-08-08 17:13:11 +0300
 - [HN content blogs](https://news.ycombinator.com/item?id=33212499)
 - [ntfy.sh](https://ntfy.sh/)
 - [project euler](https://projecteuler.net/archives)
+- [sadservers](https://sadservers.com/)
+- [bubbles games HN](https://news.ycombinator.com/item?id=33566924)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -251,6 +254,8 @@ date:  2017-08-08 17:13:11 +0300
 - [Xe nice style](https://xeiaso.net/)
 - [float toy](https://evanw.github.io/float-toy/)
 - [startup start](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
+- [bash shell best practices](https://sharats.me/posts/shell-script-best-practices/)
+- [maths markov chains](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
