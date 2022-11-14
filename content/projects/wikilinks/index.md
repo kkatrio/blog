@@ -7,4 +7,4 @@ resources:
   src: "wikilinks.png"
 ---
 
-This was fun. I just wanted to make a bot on twitter using its API. It has some problems (it has never been a robust bot) but never enough time to fix them. Maybe I will think of a better bot!
+This was fun. I just wanted to make a bot on twitter using its API. It has some problems -- it has never been a robust bot -- but never enough time to fix them. Maybe I will come up with a better bot!

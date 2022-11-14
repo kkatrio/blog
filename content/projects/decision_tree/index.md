@@ -7,4 +7,4 @@ resources:
   src: "decisiontree.png"
 ---
 
-I did this way back when I was studying machine learning algorithms. I was already using the [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) library at my job at the time, so I used it for solving the linear system. I remember I had spent a lot of time reading different papers like [this one](https://www-users.cse.umn.edu/~kumar001/dmbook/ch4.pdf). It would be worth to test if it works for real and big datasets.
+I did this way back when I was studying machine learning algorithms. I was already using the [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) library at my job at the time, so I used it for solving the linear system. I remember I had spent a lot of time reading several papers like [this one](https://www-users.cse.umn.edu/~kumar001/dmbook/ch4.pdf). It would be worth to test if it works on real and big datasets.
