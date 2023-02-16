@@ -23,10 +23,6 @@ paginate = 20
    name = "links"
    weight = 3
    url = "/links"
- [[menu.main]]
-   name = "cv"
-   weight = 4
-   url = "/cv"
 
 [params]
  GithubID = "kkatrio"
