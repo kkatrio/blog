@@ -56,6 +56,9 @@ date:  2017-08-08 17:13:11 +0300
 - [Book of experiments](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 - [Algorithms for decision making](https://news.ycombinator.com/item?id=32034409)
 - [self teaching sicp](https://romanbird.github.io/sicp/)
+- [HN free programming books](https://news.ycombinator.com/item?id=33731160)
+- [algorightms jeff erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+- [algorightms creative approach udi manber](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -195,6 +198,7 @@ date:  2017-08-08 17:13:11 +0300
 - [project euler](https://projecteuler.net/archives)
 - [sadservers](https://sadservers.com/)
 - [bubbles games HN](https://news.ycombinator.com/item?id=33566924)
+- [liquid simulations HN](https://news.ycombinator.com/item?id=34946877)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
