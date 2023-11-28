@@ -59,6 +59,7 @@ date:  2017-08-08 17:13:11 +0300
 - [HN free programming books](https://news.ycombinator.com/item?id=33731160)
 - [algorightms jeff erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 - [algorightms creative approach udi manber](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
+- [Effective Rust](https://effective-rust.com/intro.html)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -199,6 +200,7 @@ date:  2017-08-08 17:13:11 +0300
 - [sadservers](https://sadservers.com/)
 - [bubbles games HN](https://news.ycombinator.com/item?id=33566924)
 - [liquid simulations HN](https://news.ycombinator.com/item?id=34946877)
+- [HN user blogroll](https://news.ycombinator.com/item?id=36605493)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -260,6 +262,8 @@ date:  2017-08-08 17:13:11 +0300
 - [startup start](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 - [bash shell best practices](https://sharats.me/posts/shell-script-best-practices/)
 - [maths markov chains](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+- [crdts](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- [rust async inversion](https://cliffle.com/blog/async-inversion/)
 <!--
 ### Extra
 - [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
