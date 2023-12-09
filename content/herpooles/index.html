@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+    </head>
+    <body>
+
+        <div class="toolbar" style="margin-bottom: 1rem">
+          <input id="play-pause" type="button" value="Pause" />
+          <input id="restart" type="button" value="Try again" />
+        </div>
+        <canvas id="canvas" width="1000" height="800"></canvas>
+        <script type="module">
+            import init from '/pkg/herpooles.js';
+
+            async function run() {
+                await init();
+            }
+
+            run();
+        </script>
+    </body>
+</html>
