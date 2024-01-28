@@ -28,7 +28,7 @@ paginate = 20
  GithubID = "kkatrio"
  TwitterID = "bitonic5000"
  Email = "kokatrio@gmail.com"
- Name = "Kostas Katrioplas"
+ Name = "Konstantinos Katrioplas"
 
  # not needed if we link the resource in a html header
  #custom_css = ["css/cv.css"]

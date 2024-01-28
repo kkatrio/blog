@@ -201,6 +201,7 @@ date:  2017-08-08 17:13:11 +0300
 - [bubbles games HN](https://news.ycombinator.com/item?id=33566924)
 - [liquid simulations HN](https://news.ycombinator.com/item?id=34946877)
 - [HN user blogroll](https://news.ycombinator.com/item?id=36605493)
+- [How did I get here](https://how-did-i-get-here.net/)
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)

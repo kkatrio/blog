@@ -8,4 +8,4 @@ date: 2018-10-07T
 
 <h3> Welcome </h3>
 
-My name is Kostas Katrioplas. By day I am just a regular software engineer. By night, a DIY enthusiast.
+My name is Konstantinos Katrioplas. By day I am just a regular software engineer. By night, a DIY enthusiast.
