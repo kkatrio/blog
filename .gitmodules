@@ -1,4 +1,4 @@
 [submodule "themes/square"]
 	path = themes/square
-	url = git@github.com:kkatrio/hugo-square.git
+	url = https://github.com/kkatrio/hugo-square.git
 	branch = master
