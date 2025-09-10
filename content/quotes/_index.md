@@ -1,6 +1,6 @@
 ---
 title: "Quotes"
-date:  2020-01-10 20:45 +0300
+date:  2020-01-10T21:17:40+02:00
 ---
 
 <img src="/img/moon1.jpg">

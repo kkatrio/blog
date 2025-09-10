@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2018-10-07T
+date: 2018-10-07
 ---
 
 <img width="350px;" alt="homepage-image" class="homepage-image" src="/img/art.jpg">
