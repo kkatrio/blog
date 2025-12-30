@@ -60,6 +60,7 @@ date:  2017-08-08 17:13:11 +0300
 - [algorightms jeff erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 - [algorightms creative approach udi manber](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 - [Effective Rust](https://effective-rust.com/intro.html)
+- [beej learning computer science](https://beej.us/guide/bglcs/html/split/hacks-and-techniques-for-learning.html#build-a-tapestry-of-knowledge)
 ### Articles
 - [How to balance full-time work with creative projects](https://thecreativeindependent.com/guides/how-to-balance-full-time-work-with-creative-projects/)
 - [It’s the End of the World and They Know It: How Dystopian Fiction Shapes Political Attitudes](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3853105561CB840EAB79258DC2575849/S1537592718002153a.pdf/its_the_end_of_the_world_and_they_know_it_how_dystopian_fiction_shapes_political_attitudes.pdf)
@@ -83,6 +84,9 @@ date:  2017-08-08 17:13:11 +0300
 - [reinforcement trading](https://arxiv.org/pdf/2002.11523.pdf)
 - [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 - [lessons mit education](https://people.tamu.edu/~huafei-yan//Rota/mitless.html)
+- [human stupidity](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
+- [why-arent-smart-people-happier](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
+- [thessaloniki](https://thecritic.co.uk/the-city-that-forgot-itself/)
 ### Links
 - [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted#dns)
@@ -202,6 +206,17 @@ date:  2017-08-08 17:13:11 +0300
 - [liquid simulations HN](https://news.ycombinator.com/item?id=34946877)
 - [HN user blogroll](https://news.ycombinator.com/item?id=36605493)
 - [How did I get here](https://how-did-i-get-here.net/)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [scratch pixel graphics](https://www.scratchapixel.com/)
+- [firewall vps](https://news.ycombinator.com/item?id=46305585)
+- [HN side projects](https://news.ycombinator.com/item?id=46307973)
+- [bitwisecmd](https://bitwisecmd.com/#65535%2C%3E%3E%2C8)
+- [better explained maths](https://betterexplained.com/)
+- [theoritical computer science course](https://www.cs251.com/)
+- [cancelling async rust](https://sunshowers.io/posts/cancelling-async-rust/)
+- [negotiate salary](https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/)
+- [three body orbits](http://three-body.ipb.ac.rs/sol.php?id=10)
+
 ### Blogs
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [two-wrongs](https://two-wrongs.com/)
@@ -307,6 +322,17 @@ date:  2017-08-08 17:13:11 +0300
 - [lessons startups blog](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 - [ancient egyptian star clocks](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 - [LLMs bullshit](https://thebullshitmachines.com/lesson-2-the-nature-of-bullshit/index.html)
+- [Marc's blog](https://brooker.co.za/blog/2025/06/20/career.html)
+- [fogus things and stuff](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
+- [h4x0r.org ring](https://h4x0r.org/ring/)
+- [rust block pattern](https://notgull.net/block-pattern/)
+- [simulating millions of particles](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
+- [cognitive load](https://github.com/zakirullin/cognitive-load?tab=readme-ov-file)
+- [raft video](https://www.youtube.com/watch?v=vYp4LYbnnW8)
+- [in memory filesystems in rust](https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/)
+- [HN popularity contest](https://refactoringenglish.com/tools/hn-popularity/)
+- [indie web](https://indieblog.page/)
+- [mit time](https://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
 
 <!--
 ### Extra
