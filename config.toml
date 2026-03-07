@@ -4,7 +4,9 @@ title = "Kostas Katrioplas"
 theme = "square"
 
 pluralizeListTitles = false
-paginate = 20
+
+[pagination]
+  pagerSize = 20
 
 [menu]
   [[menu.main]]
@@ -29,9 +31,23 @@ paginate = 20
  TwitterID = "bitonic5000"
  Email = "kokatrio@gmail.com"
  Name = "Konstantinos Katrioplas"
+ # enable only on the posts we want maths
+ math = false
 
  # not needed if we link the resource in a html header
  #custom_css = ["css/cv.css"]
 
+# render raw html in index.md files
 [markup.goldmark.renderer]
 unsafe= true
+
+# render latex maths formulas
+# https://gohugo.io/content-management/mathematics/
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]

@@ -1,0 +1,16 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+  <!--
+  {{ range .Site.Params.custom_css}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+  {{ end }}
+  -->
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
+</head>
