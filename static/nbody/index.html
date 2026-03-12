@@ -24,7 +24,6 @@
                 background: rgba(30, 30, 30, 0.75);
                 backdrop-filter: blur(6px);
                 border: 1px solid rgba(255,255,255,0.15);
-                /*border-radius: 10px;*/
                 padding: 10px;
                 display: flex;
                 flex-direction: column;
@@ -63,6 +62,20 @@
             #widget button:hover {
                 background: rgba(200, 160, 100, 0.8);
             }
+            #widget-links {
+                border-top: 1px solid rgba(255,255,255,0.15);
+                padding-top: 4px;
+                margin-top: 4px;
+            }
+            #widget-links a {
+                color: rgba(180, 210, 255, 0.85);
+                text-decoration: none;
+                font-size: 12px;
+            }
+            #widget-links a:hover {
+                color: rgba(180, 210, 255, 1);
+                text-decoration: underline;
+            }
         </style>
     </head>
     <body>
@@ -76,6 +89,9 @@
                 <input type="number" id="nclusters" value="3" />
             </div>
             <button id="reload">reload</button>
+            <div id="widget-links">
+                <a id="link" style="float: right;" href="https://github.com/kkatrio/nbody" target="_blank">info</a>
+            </div>
         </div>
 
         <div id="root">
