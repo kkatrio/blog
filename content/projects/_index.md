@@ -2,3 +2,26 @@
 title: "Projects"
 date: 2022-10-09T21:17:40+02:00
 ---
+
+Saturday night entertainment zone.
+
+### Smart home
+
+* [hawkeye](https://github.com/kkatrio/hawkeye) -- A event relay for frigate surveillance events. Uploads events to google drive and sends notifications to raise alarms. -- Mar 2026
+
+* [olympus](https://github.com/kkatrio/olympus) -- A notification server for smart home events. -- Mar 2026
+
+* [icmp watch](https://github.com/kkatrio/icmpwatch) -- Watch ip hosts like cameras with a simple icmp protocol implementation and send notifications. -- Dec 2025
+
+### Web assembly
+
+* [nbody simulation](https://dikatrio.xyz/nbody) -- N-Body simulation in wasm ans webgl. I wrote a [blog](https://dikatrio.xyz/posts/nbody/) about it. -- Feb 2026
+
+* [herpooles](https://dikatrio.xyz/herpooles) -- Herpooles kills zombies with poo to survive. -- Dec 2023
+
+* [Mandelbrot](https://dikatrio.xyz/mandelbrot)  -- I started this as an introduction to WebAssembly with Rust. ([code](https://github.com/kkatrio/mandelbrot)) -- Oct 2022
+
+### Reinforcement learning
+
+* [ai-snake](https://github.com/kkatrio/ai-snake) -- Reinforcement learning on the snake game. I read [books](https://www.goodreads.com/book/show/39813875-reinforcement-learning), watched online [courses](https://www.youtube.com/watch?v=2pWv7GOvuf0), I was just so much interested in it. I used Tensorflow to build the neural network and tkinter for the graphics.
+[blog](https://dikatrio.xyz/posts/train_snake/) -- May 2020

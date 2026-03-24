@@ -1,6 +1,6 @@
 baseURL = "https://dikatrio.xyz"
 languageCode = "en-us"
-title = "Kostas Katrioplas"
+title = "Konstantinos Katrioplas"
 theme = "square"
 
 pluralizeListTitles = false
@@ -28,7 +28,6 @@ pluralizeListTitles = false
 
 [params]
  GithubID = "kkatrio"
- TwitterID = "bitonic5000"
  Email = "kokatrio@gmail.com"
  Name = "Konstantinos Katrioplas"
  # enable only on the posts we want maths

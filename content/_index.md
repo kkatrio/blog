@@ -8,4 +8,6 @@ date: 2018-10-07
 
 <h3> Welcome </h3>
 
-My name is Konstantinos Katrioplas. By day I am just a regular software engineer. By night, a DIY enthusiast.
+My name is Konstantinos Katrioplas. I am passionate about computer science and building reliable systems. Currently I work for Ericsson on distributed systems and networks for telecommunications. Previously I worked for GeometryFactory and for Zurich MedTech AG on computational geometry.
+
+I live in Greece, where I studied physics and computational physics. Everyday I try to combine my passion for computer science with family life and self-improvement.
