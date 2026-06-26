@@ -13,13 +13,19 @@ Saturday night entertainment zone.
 
 * [icmp watch](https://github.com/kkatrio/icmpwatch) -- Watch ip hosts like cameras with a simple icmp protocol implementation and send notifications. -- Dec 2025
 
-### Web assembly
+* [bridge](https://github.com/kkatrio/icmpwatch) -- Web app for my local network to control some smart home services. -- May 2026
+
+* [recwatchdog](https://github.com/kkatrio/rec-watchdog) -- A watch dog to alert me if my recordings have stopped. -- May 2026
+
+### Numerical simulations
 
 * [nbody simulation](https://dikatrio.xyz/nbody) -- N-Body simulation in wasm ans webgl. I wrote a [blog](https://dikatrio.xyz/posts/nbody/) about it. -- Feb 2026
 
-* [herpooles](https://dikatrio.xyz/herpooles) -- Herpooles kills zombies with poo to survive. -- Dec 2023
-
 * [Mandelbrot](https://dikatrio.xyz/mandelbrot)  -- I started this as an introduction to WebAssembly with Rust. ([code](https://github.com/kkatrio/mandelbrot)) -- Oct 2022
+
+### Games
+
+* [herpooles](https://dikatrio.xyz/herpooles) -- Herpooles kills zombies with poo to survive. -- Dec 2023
 
 ### Reinforcement learning
 

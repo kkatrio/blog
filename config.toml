@@ -18,13 +18,17 @@ pluralizeListTitles = false
    weight = 1
    url = "/projects"
  [[menu.main]]
-   name = "posts"
+   name = "blog"
    weight = 2
-   url = "/posts"
+   url = "/blog"
  [[menu.main]]
-   name = "links"
+   name = "bookself"
    weight = 3
-   url = "/links"
+   url = "/bookself"
+ [[menu.main]]
+   name = "bookmarks"
+   weight = 4
+   url = "/bookmarks"
 
 [params]
  GithubID = "kkatrio"

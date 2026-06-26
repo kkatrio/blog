@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Blog"
 date:  2017-08-08 17:13:11 +0300
 ---
 

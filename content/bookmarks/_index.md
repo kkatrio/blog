@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Bookmarks"
 date:  2017-08-08 17:13:11 +0300
 ---
 <img width="250px;" style="margin-left:50px;" src="/img/phenomena.jpg">
@@ -40,29 +40,20 @@ date:  2017-08-08 17:13:11 +0300
 - [incoherent rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
 - [nixos](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
 - [larvitz bsd linux firewall](https://blog.hofstede.it/)
-
-### books
-- [Alex’s Adventures in Numberland](http://www.alexbellos.com/numberland)
-- [Never split the difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
-- [Real time collision detection](http://realtimecollisiondetection.net/books/rtcd/)
-- [The third policeman](https://en.wikipedia.org/wiki/The_Third_Policeman)
-- [Catch-22](https://en.wikipedia.org/wiki/Catch-22)
-- [The name of the rose](https://en.wikipedia.org/wiki/The_Name_of_the_Rose)
-- [Letter to a child never born](https://www.goodreads.com/book/show/79429.Letter_to_a_Child_Never_Born)
-- [Software-defined radio for engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
-- [Algorithms (Jeff Erickson)](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
-- [The art of doing science and engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- [Reinforcement learning](http://incompleteideas.net/book/RLbook2018.pdf)
-- [The Visual Display of Quantitative Information](https://www.amazon.com/dp/0961392142/?coliid=I3547GQWVGKLFH&colid=EI8GP25AL8FU&psc=1&ref_=lv_vv_lig_dp_it)
-- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
-- [Bayesian data analysis](https://users.aalto.fi/~ave/BDA3.pdf)
-- [Surely Mr. Feynman](https://chem.fsu.edu/chemlab/isc3523c/feyn_surely.pdf)
-- [enjoy-chess](https://andytrattner.com/img/pdf/enjoy-chess.pdf)
-- [Book of experiments](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
-- [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
-- [Mythos -- Stephen Fry](https://en.wikipedia.org/wiki/Mythos_(book))
-- [Heroes -- Stephen Fry](https://www.goodreads.com/book/show/41433634-heroes)
-- [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
+- [lara aigmuller](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+- [マリウス](https://マリウス.com/collection/journal/)
+- [do not let ai](https://alexhwoods.com/dont-let-ai-write-for-you/)
+- [antimemetics division review](https://www.stephendiehl.com/posts/no_antimimetics/)
+- [all things destributed](https://www.allthingsdistributed.com/)
+- [bsd local s3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
+- [hidden costs abstractions HN](https://news.ycombinator.com/item?id=48002607)
+- [binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/#comment-677568)
+- [simon willison](https://simonwillison.net)
+- [ai elevate your thinking](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+- [bezier curves](https://pomax.github.io/bezierinfo/)
+- [career eroding](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
+- [steve krouse](https://stevekrouse.com/)
+- [farid zakaria](https://fzakaria.com/)
 
 ### articles
 - [how we see ourselves -- how we see others](https://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
@@ -81,6 +72,9 @@ date:  2017-08-08 17:13:11 +0300
 - [visual guide to SSH tunnels](https://news.ycombinator.com/item?id=26053323)
 - [system design scale](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 - [rust error design](https://mmapped.blog/posts/12-rust-error-handling#implement-std-error)
+- [cognitive dark forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+- [the clankers won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
+- [async rust](https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/)
 
 ### HN discussions
 - [Programming books](https://news.ycombinator.com/item?id=32788281)
@@ -100,6 +94,8 @@ date:  2017-08-08 17:13:11 +0300
 - [Ask HN: What are your favorite books or essays written at least 100 years ago?](https://news.ycombinator.com/item?id=20914127)
 - [books of the century](https://news.ycombinator.com/item?id=47433429)
 - [mourn our craft](https://news.ycombinator.com/item?id=46926245)
+- [hn router](https://news.ycombinator.com/item?id=47574034)
+- [click](https://news.ycombinator.com/item?id=4818705)
 
 ### other
 - [open culture](https://www.openculture.com/freeonlinecourses)
@@ -130,6 +126,28 @@ date:  2017-08-08 17:13:11 +0300
 - [graphs webgl automata](https://github.com/znah/graphs)
 - [webgl fluid simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 - [unsloth.ai hn discussion](https://news.ycombinator.com/item?id=47292522)
+- [magnified sand](https://magnifiedsand.com/)
+- [music for programming](https://news.ycombinator.com/item?id=47652322)
+- [laws of engineering](https://lawsofsoftwareengineering.com/)
+- [guernica](https://guernica.museoreinasofia.es/gigapixel/en/#3/63.11/-120.59)
+- [git commands](https://piechowski.io/post/git-commands-before-reading-code/)
+- [bonsai -- omiya](https://www.japanpolicyforum.jp/culture/pt2010092816052974.html)
+
+### may be interesting to read
+- [reject ai code](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+- [vibe coding](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
+- [sky rendering](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+- [permacomputing principles](https://permacomputing.net/principles/)
+- [bottleneck code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
+- [monograph rust repo](https://github.com/du82/nonograph)
+- [ai laws](https://susam.net/inverse-laws-of-robotics.html)
+- [reads books](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+- [hating ai](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+- [ai plagiarism](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+- [ai elephant in the room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+- [future is lies](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
+- [peopless economy](https://news.ycombinator.com/item?id=48547062)
+
 
 <!--
 ### Extra
