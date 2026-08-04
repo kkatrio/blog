@@ -54,16 +54,15 @@ date:  2017-08-08 17:13:11 +0300
 - [career eroding](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
 - [steve krouse](https://stevekrouse.com/)
 - [farid zakaria](https://fzakaria.com/)
+- [matklad software architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+- [westenberg live without options](https://www.joanwestenberg.com/p/how-to-live-without-options-and-why)
 
 ### articles
-- [how we see ourselves -- how we see others](https://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
-- [who cares if you listen](https://artasillumination.wordpress.com/wp-content/uploads/2015/02/who-cares-if-you-listen.pdf)
 - [io uring blog](https://mazzo.li/posts/uring-multiplex.html)
-- [who can claim Aristotle](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
 - [reinforcement trading](https://arxiv.org/pdf/2002.11523.pdf)
+- [who cares if you listen](https://artasillumination.wordpress.com/wp-content/uploads/2015/02/who-cares-if-you-listen.pdf)
 - [Problems for children](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 - [lessons mit education](https://people.tamu.edu/~huafei-yan//Rota/mitless.html)
-- [why-arent-smart-people-happier](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
 - [thessaloniki](https://thecritic.co.uk/the-city-that-forgot-itself/)
 - [rubik's cube](https://web.mit.edu/sp.268/www/rubik.pdf)
 - [golden ratio stuff](http://extremelearning.com.au/going-beyond-golden-ratio/)
@@ -75,6 +74,8 @@ date:  2017-08-08 17:13:11 +0300
 - [cognitive dark forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
 - [the clankers won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 - [async rust](https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/)
+- [godbolt sold me on rust](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
+- [networking and the internet principles](https://fazamhd.com/mental-models/networking/)
 
 ### HN discussions
 - [Programming books](https://news.ycombinator.com/item?id=32788281)
@@ -96,10 +97,11 @@ date:  2017-08-08 17:13:11 +0300
 - [mourn our craft](https://news.ycombinator.com/item?id=46926245)
 - [hn router](https://news.ycombinator.com/item?id=47574034)
 - [click](https://news.ycombinator.com/item?id=4818705)
+- [esp8266 built](https://news.ycombinator.com/item?id=40181000)
+- [github fake star economy](https://news.ycombinator.com/item?id=47831621)
+- [understandable raft](https://news.ycombinator.com/item?id=41669850)
 
 ### other
-- [open culture](https://www.openculture.com/freeonlinecourses)
-- [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [reverse-interview](https://github.com/viraptor/reverse-interview)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#loop-over-a-range-of-numbers)
@@ -131,7 +133,13 @@ date:  2017-08-08 17:13:11 +0300
 - [laws of engineering](https://lawsofsoftwareengineering.com/)
 - [guernica](https://guernica.museoreinasofia.es/gigapixel/en/#3/63.11/-120.59)
 - [git commands](https://piechowski.io/post/git-commands-before-reading-code/)
-- [bonsai -- omiya](https://www.japanpolicyforum.jp/culture/pt2010092816052974.html)
+- [inheritance in rust](https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215)
+- [dyn dns](https://dynip.dev)
+- [hail mary map](https://valhovey.github.io/gaia-mary/)
+- [three ways to get paid](https://jasonzweig.com/three-ways-to-get-paid/)
+- [dragon fractal](https://paulbourke.net/fractals/tripledragon/)
+- [solar](https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system#core-system-connections)
+- [200 milliseconds request](https://200ms.thenodebook.com/#act-3-the-handshakes)
 
 ### may be interesting to read
 - [reject ai code](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
@@ -147,6 +155,24 @@ date:  2017-08-08 17:13:11 +0300
 - [ai elephant in the room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 - [future is lies](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 - [peopless economy](https://news.ycombinator.com/item?id=48547062)
+- [do not subscribe so easily](https://thebestworstcase.substack.com/p/dont-subscribe-so-casually)
+- [outsource the learning](https://addyosmani.com/blog/dont-outsource-learning/)
+- [writing by hand](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+- [ai mania](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+- [mag world](https://magworld.pw/articles/intro/)
+- [llms reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+
+
+### no cs
+- [how we see ourselves -- how we see others](https://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
+- [open culture](https://www.openculture.com/freeonlinecourses)
+- [Gutenberg](https://www.gutenberg.org/ebooks/search/?start_index=101&sort_order=downloads)
+- [bonsai -- omiya](https://www.japanpolicyforum.jp/culture/pt2010092816052974.html)
+- [who can claim Aristotle](https://aeon.co/essays/dont-cancel-aristotle-we-need-his-ideas-to-hone-ours)
+- [why-arent-smart-people-happier](https://www.theseedsofscience.pub/p/why-arent-smart-people-happier)
+- [literary crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis)
+- [how to exist](https://www.raptitude.com/2026/07/how-to-exist/)
+- [stanford philosophy](https://plato.stanford.edu/contents.html)
 
 
 <!--
