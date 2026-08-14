@@ -2,6 +2,7 @@ baseURL = "https://dikatrio.xyz"
 languageCode = "en-us"
 title = "Konstantinos Katrioplas"
 theme = "square"
+timeZone = "Europe/Athens"
 
 pluralizeListTitles = false
 
