@@ -67,6 +67,6 @@ impl Add<Derivatives> for State {
 
 ### Correct chaos
 
-It is very interesting how the double pendulum system is highly sensitive on the initial conditions. Its motion is chaotic and it differs a lot when the initial conditions differ only slightly. Also even though the Runge Kutta method is a fourth-order method, the error accumulates and that has a relatively big impact on the system's orbit. Maybe some symplectic integrator (https://en.wikipedia.org/wiki/Symplectic_integrator) gives a more accurate solution. 
+It is very interesting how the double pendulum system is highly sensitive on the initial conditions. Its motion is chaotic and it differs a lot when the initial conditions differ only slightly. Also even though the Runge Kutta method is a fourth-order method, the error accumulates and that has a relatively big impact on the system's orbit. Maybe some [symplectic integrator](https://en.wikipedia.org/wiki/Symplectic_integrator) gives a more accurate solution.
 
 The accumulated numerical error can be seen in the simulation if the angles are both set to 180 degrees. In this way both point masses are exactly up on the perpendicular axis and gravity should not pull them left or right. But the equations are solved for each frame of the simulation (because of rust and webgl is it fast and you do not notice it), and after about 30 seconds the pendulum drops to one side, indicating how the tiny numerical error affects greatly the chaotic behaviour of the system.
