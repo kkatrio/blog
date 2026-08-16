@@ -16,7 +16,7 @@ pluralizeListTitles = false
   url = "/"
  [[menu.main]]
    name = "projects"
-   weight = 1
+   weight = 3
    url = "/projects"
  [[menu.main]]
    name = "blog"
@@ -24,7 +24,7 @@ pluralizeListTitles = false
    url = "/blog"
  [[menu.main]]
    name = "bookself"
-   weight = 3
+   weight = 5
    url = "/bookself"
  [[menu.main]]
    name = "bookmarks"

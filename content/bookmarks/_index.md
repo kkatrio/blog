@@ -173,6 +173,7 @@ date:  2017-08-08 17:13:11 +0300
 - [literary crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis)
 - [how to exist](https://www.raptitude.com/2026/07/how-to-exist/)
 - [stanford philosophy](https://plato.stanford.edu/contents.html)
+- [bbc wildfires](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
 
 
 <!--
